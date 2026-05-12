@@ -1,36 +1,96 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# GPLX B So San
 
-## Getting Started
+Web app hoc va thi thu ly thuyet GPLX oto hang B so san.
 
-First, run the development server:
+## Tinh nang
+
+- Hoc theo bo 600 cau hoi
+- Loc theo chuong
+- Tim kiem theo tu khoa
+- Danh dau va theo doi tien do bang `localStorage`
+- Thi thu 30 cau, 20 phut
+- Co cau diem liet, sai la truot ngay
+- Chon de ngau nhien hoac 1 trong 20 bo de preset
+- Giao dien tieng Viet, responsive cho mobile
+
+## Cong nghe
+
+- Next.js App Router
+- TypeScript
+- Tailwind CSS
+- Du lieu JSON local tai `src/data/questions.json`
+- Khong dung backend cho MVP
+
+## Chay local
+
+Yeu cau:
+
+- Node.js 20+
+- npm
+
+Cai dependencies:
+
+```bash
+npm install
+```
+
+Chay development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+App mac dinh chay tai:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3002
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Build production:
 
-## Learn More
+```bash
+npm run build
+npm run start
+```
 
-To learn more about Next.js, take a look at the following resources:
+Production server local cung dung port `3002`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Cau truc project
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```text
+src/
+  app/
+    page.tsx
+    study/
+      page.tsx
+    exam/
+      page.tsx
+    result/
+      page.tsx
+  components/
+    DashboardCard.tsx
+    ProgressBar.tsx
+    QuestionCard.tsx
+    Timer.tsx
+  data/
+    questions.json
+  lib/
+    exam.ts
+    storage.ts
+    types.ts
+```
 
-## Deploy on Vercel
+## Du lieu
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Bo 600 cau hoi va anh duoc luu trong repo
+- Tien do hoc, lich su thi, cau sai duoc luu trong `localStorage`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Deploy
+
+Production:
+
+```text
+https://gplx-b-so-san.vercel.app
+```
+
+Repo da duoc connect voi Vercel qua GitHub. Moi lan push len nhanh `master`, Vercel se tu build va deploy.
