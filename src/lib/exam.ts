@@ -117,6 +117,28 @@ export function createPresetExamSets(questions: Question[], count = EXAM_PRESET_
   return Array.from({ length: count }, (_, index) => makeBExam(questions, createSeededRandom(20250512 + index * 9973)));
 }
 
+export function gradeBExam(examQuestions: Question[], answers: Record<number, number>, finalSecondsLeft = 0) {
+  const wrongQuestions = examQuestions.filter((question) => answers[question.id] !== question.correctAnswer);
+  const criticalWrongQuestions = wrongQuestions.filter((question) => question.critical);
+  const score = EXAM_TOTAL - wrongQuestions.length;
+  const passed = score >= PASS_SCORE && criticalWrongQuestions.length === 0;
+  const reason = passed
+    ? "Đạt yêu cầu hạng B"
+    : criticalWrongQuestions.length
+      ? `Sai ${criticalWrongQuestions.length} câu điểm liệt`
+      : `Điểm dưới ${PASS_SCORE}/${EXAM_TOTAL}`;
+
+  return {
+    score,
+    total: EXAM_TOTAL,
+    passed,
+    reason,
+    wrongQuestions,
+    criticalWrongQuestions,
+    durationSeconds: EXAM_SECONDS - finalSecondsLeft,
+  };
+}
+
 export function getAccuracy(progress: StoredProgress) {
   const records = Object.values(progress.answered);
   if (!records.length) {

@@ -19,11 +19,19 @@ let changed = 0;
 
 for (const question of questions) {
   const explanation = explanations[question.id];
-  if (explanation && question.explanation !== explanation) {
+  if (!explanation) {
+    continue;
+  }
+
+  if (question.explanation !== explanation) {
     question.explanation = explanation;
     changed += 1;
   }
+  question.explanationSource = "manual";
+  question.explanationReview = "verified";
+  question.memoryTip = explanation;
+  question.tipSource = "manual";
 }
 
 await fs.writeFile(dataPath, `${JSON.stringify(questions, null, 2)}\n`, "utf-8");
-console.log(`Applied explanations to ${changed} questions.`);
+console.log(`Applied explanations and memory tips to ${Object.keys(explanations).length} questions. Changed text: ${changed}.`);

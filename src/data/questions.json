@@ -779,7 +779,11 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q049.png",
-    "explanation": "Ghi nhớ: Sử dụng còi trong khu đông dân cư từ 05 giờ đến 22 giờ, trừ khu vực có biển cấm sử dụng còi."
+    "explanation": "Ghi nhớ: Sử dụng còi trong khu đông dân cư từ 05 giờ đến 22 giờ, trừ khu vực có biển cấm sử dụng còi.",
+    "explanationSource": "manual",
+    "explanationReview": "verified",
+    "memoryTip": "Ghi nhớ: Sử dụng còi trong khu đông dân cư từ 05 giờ đến 22 giờ, trừ khu vực có biển cấm sử dụng còi.",
+    "tipSource": "manual"
   },
   {
     "id": 50,
@@ -957,7 +961,11 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q060.png",
-    "explanation": "Ghi nhớ: Đỗ xe trong phố phải sát lề đường, vỉa hè bên phải; bánh xe gần nhất cách lề đường, vỉa hè không quá 0,25 m."
+    "explanation": "Ghi nhớ: Đỗ xe trong phố phải sát lề đường, vỉa hè bên phải; bánh xe gần nhất cách lề đường, vỉa hè không quá 0,25 m.",
+    "explanationSource": "manual",
+    "explanationReview": "verified",
+    "memoryTip": "Ghi nhớ: Đỗ xe trong phố phải sát lề đường, vỉa hè bên phải; bánh xe gần nhất cách lề đường, vỉa hè không quá 0,25 m.",
+    "tipSource": "manual"
   },
   {
     "id": 61,
@@ -974,7 +982,11 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q061.png",
-    "explanation": "Ghi nhớ: Khi dừng, đỗ xe trên đường phố hẹp phải cách xe ô tô đang đỗ ngược chiều tối thiểu 20 m."
+    "explanation": "Ghi nhớ: Khi dừng, đỗ xe trên đường phố hẹp phải cách xe ô tô đang đỗ ngược chiều tối thiểu 20 m.",
+    "explanationSource": "manual",
+    "explanationReview": "verified",
+    "memoryTip": "Ghi nhớ: Khi dừng, đỗ xe trên đường phố hẹp phải cách xe ô tô đang đỗ ngược chiều tối thiểu 20 m.",
+    "tipSource": "manual"
   },
   {
     "id": 62,
@@ -2253,7 +2265,11 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q140.png",
-    "explanation": "Ghi nhớ: Giấy phép lái xe chưa bị trừ hết 12 điểm sẽ được phục hồi đủ 12 điểm nếu không bị trừ điểm trong 12 tháng từ ngày bị trừ điểm gần nhất."
+    "explanation": "Ghi nhớ: Giấy phép lái xe chưa bị trừ hết 12 điểm sẽ được phục hồi đủ 12 điểm nếu không bị trừ điểm trong 12 tháng từ ngày bị trừ điểm gần nhất.",
+    "explanationSource": "manual",
+    "explanationReview": "verified",
+    "memoryTip": "Ghi nhớ: Giấy phép lái xe chưa bị trừ hết 12 điểm sẽ được phục hồi đủ 12 điểm nếu không bị trừ điểm trong 12 tháng từ ngày bị trừ điểm gần nhất.",
+    "tipSource": "manual"
   },
   {
     "id": 141,
@@ -2269,7 +2285,11 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q141.png",
-    "explanation": "Ghi nhớ: Bị trừ hết 12 điểm thì sau ít nhất 06 tháng được kiểm tra lại kiến thức pháp luật giao thông; đạt yêu cầu thì được phục hồi đủ 12 điểm."
+    "explanation": "Ghi nhớ: Bị trừ hết 12 điểm thì sau ít nhất 06 tháng được kiểm tra lại kiến thức pháp luật giao thông; đạt yêu cầu thì được phục hồi đủ 12 điểm.",
+    "explanationSource": "manual",
+    "explanationReview": "verified",
+    "memoryTip": "Ghi nhớ: Bị trừ hết 12 điểm thì sau ít nhất 06 tháng được kiểm tra lại kiến thức pháp luật giao thông; đạt yêu cầu thì được phục hồi đủ 12 điểm.",
+    "tipSource": "manual"
   },
   {
     "id": 142,
@@ -2757,7 +2777,11 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q171.png",
-    "explanation": "Ghi nhớ: Thời gian lái xe liên tục của lái xe ô tô kinh doanh vận tải không quá 4 giờ."
+    "explanation": "Ghi nhớ: Thời gian lái xe liên tục của lái xe ô tô kinh doanh vận tải không quá 4 giờ.",
+    "explanationSource": "manual",
+    "explanationReview": "verified",
+    "memoryTip": "Ghi nhớ: Thời gian lái xe liên tục của lái xe ô tô kinh doanh vận tải không quá 4 giờ.",
+    "tipSource": "manual"
   },
   {
     "id": 172,
@@ -2774,7 +2798,11 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q172.png",
-    "explanation": "Ghi nhớ: Thời gian làm việc của lái xe ô tô kinh doanh vận tải trong một ngày không quá 10 giờ."
+    "explanation": "Ghi nhớ: Thời gian làm việc của lái xe ô tô kinh doanh vận tải trong một ngày không quá 10 giờ.",
+    "explanationSource": "manual",
+    "explanationReview": "verified",
+    "memoryTip": "Ghi nhớ: Thời gian làm việc của lái xe ô tô kinh doanh vận tải trong một ngày không quá 10 giờ.",
+    "tipSource": "manual"
   },
   {
     "id": 173,
@@ -4457,7 +4485,11 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q277.png",
-    "explanation": "Ghi nhớ: Niên hạn sử dụng của xe ô tô tải tính từ năm sản xuất không quá 25 năm."
+    "explanation": "Ghi nhớ: Niên hạn sử dụng của xe ô tô tải tính từ năm sản xuất không quá 25 năm.",
+    "explanationSource": "manual",
+    "explanationReview": "verified",
+    "memoryTip": "Ghi nhớ: Niên hạn sử dụng của xe ô tô tải tính từ năm sản xuất không quá 25 năm.",
+    "tipSource": "manual"
   },
   {
     "id": 278,
@@ -4473,7 +4505,11 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q278.png",
-    "explanation": "Ghi nhớ: Niên hạn sử dụng của xe ô tô chở người trên 8 chỗ ngồi, không kể chỗ người lái, tính từ năm sản xuất không quá 20 năm."
+    "explanation": "Ghi nhớ: Niên hạn sử dụng của xe ô tô chở người trên 8 chỗ ngồi, không kể chỗ người lái, tính từ năm sản xuất không quá 20 năm.",
+    "explanationSource": "manual",
+    "explanationReview": "verified",
+    "memoryTip": "Ghi nhớ: Niên hạn sử dụng của xe ô tô chở người trên 8 chỗ ngồi, không kể chỗ người lái, tính từ năm sản xuất không quá 20 năm.",
+    "tipSource": "manual"
   },
   {
     "id": 279,

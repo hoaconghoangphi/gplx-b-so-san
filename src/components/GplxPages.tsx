@@ -16,11 +16,23 @@ import {
   EXAM_TOTAL,
   formatTime,
   getAccuracy,
+  gradeBExam,
   makeBExam,
-  PASS_SCORE,
 } from "@/lib/exam";
 import { emptyProgress, readProgress, writeProgress } from "@/lib/storage";
 import type { ExamHistoryItem, ExamResult, Question, QuestionCategory, StoredProgress } from "@/lib/types";
+
+type StudyMode = "all" | "unlearned" | "wrong" | "critical" | "withImage" | "withTip";
+type ResultReviewMode = "wrong" | "all";
+
+const studyModes: { key: StudyMode; label: string }[] = [
+  { key: "all", label: "Tất cả" },
+  { key: "unlearned", label: "Chưa học" },
+  { key: "wrong", label: "Câu sai" },
+  { key: "critical", label: "Điểm liệt" },
+  { key: "withImage", label: "Có hình" },
+  { key: "withTip", label: "Có mẹo" },
+];
 
 function useStoredProgress() {
   const [progress, setProgress] = useState<StoredProgress>(emptyProgress);
@@ -43,6 +55,24 @@ function useStoredProgress() {
   return [progress, setProgress] as const;
 }
 
+function questionHasTip(question: Question) {
+  return Boolean(question.memoryTip?.trim());
+}
+
+function getChapterAccuracy(questions: Question[], progress: StoredProgress) {
+  return [1, 2, 3, 4, 5, 6].map((chapter) => {
+    const chapterQuestions = questions.filter((question) => question.chapter === chapter);
+    const answered = chapterQuestions.filter((question) => progress.answered[String(question.id)]);
+    const correct = answered.filter((question) => progress.answered[String(question.id)]?.correct).length;
+    return {
+      chapter,
+      total: chapterQuestions.length,
+      answered: answered.length,
+      accuracy: answered.length ? Math.round((correct / answered.length) * 100) : 0,
+    };
+  });
+}
+
 function Shell({ children }: { children: React.ReactNode }) {
   return (
     <main className="min-h-screen bg-[#f6f8f5] text-slate-950">
@@ -51,7 +81,7 @@ function Shell({ children }: { children: React.ReactNode }) {
           <div>
             <p className="text-sm font-semibold uppercase tracking-wide text-emerald-700">GPLX ô tô hạng B</p>
             <h1 className="mt-2 text-3xl font-semibold tracking-normal text-slate-950 sm:text-4xl">Học và thi thử lý thuyết GPLX</h1>
-            <p className="mt-3 max-w-2xl text-base leading-7 text-slate-600">Ôn 600 câu, theo dõi tiến độ học và làm đề mô phỏng hạng B gồm 30 câu trong 20 phút.</p>
+            <p className="mt-3 max-w-2xl text-base leading-7 text-slate-600">Ôn 600 câu, luyện câu sai, câu điểm liệt và làm đề mô phỏng hạng B gồm 30 câu trong 20 phút.</p>
           </div>
           <nav className="flex flex-wrap gap-2">
             {[
@@ -75,43 +105,41 @@ function Shell({ children }: { children: React.ReactNode }) {
 export function DashboardPage({ questions }: { questions: Question[] }) {
   const [progress] = useStoredProgress();
   const learned = Object.keys(progress.answered).length;
+  const wrongCount = progress.wrongQuestionIds.length;
   const criticalTotal = questions.filter((question) => question.critical).length;
   const criticalLearned = questions.filter((question) => question.critical && progress.answered[String(question.id)]).length;
+  const tipTotal = questions.filter(questionHasTip).length;
   const latestHistory = progress.examHistory.slice(0, 5);
+  const chapterAccuracy = getChapterAccuracy(questions, progress);
 
   return (
     <Shell>
       <section className="grid gap-6">
-        <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-5">
+        <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-6">
           <DashboardCard title="Tổng câu hỏi" value={questions.length.toString()} />
           <DashboardCard title="Đã học" value={learned.toString()} detail={`${Math.round((learned / questions.length) * 100)}% bộ câu`} />
           <DashboardCard title="Độ chính xác" value={`${getAccuracy(progress)}%`} />
-          <DashboardCard title="Câu điểm liệt" value={`${criticalLearned}/${criticalTotal}`} detail="đã luyện" />
-          <DashboardCard title="Lịch sử thi" value={progress.examHistory.length.toString()} detail="lượt thi thử" />
+          <DashboardCard title="Điểm liệt" value={`${criticalLearned}/${criticalTotal}`} detail="đã luyện" />
+          <DashboardCard title="Câu sai" value={wrongCount.toString()} detail="cần luyện lại" />
+          <DashboardCard title="Có mẹo" value={tipTotal.toString()} detail="câu có ghi nhớ" />
         </div>
 
         <div className="grid gap-4 lg:grid-cols-[1.2fr_0.8fr]">
           <section className="rounded-lg border border-slate-200 bg-white p-5">
             <h2 className="text-lg font-semibold">Tiến độ học</h2>
             <div className="mt-4 space-y-4">
-              <div>
-                <div className="mb-2 flex justify-between text-sm text-slate-600">
-                  <span>Hoàn thành bộ câu</span>
-                  <span>{learned}/{questions.length}</span>
-                </div>
-                <ProgressBar value={(learned / questions.length) * 100} />
-              </div>
-              <div>
-                <div className="mb-2 flex justify-between text-sm text-slate-600">
-                  <span>Câu điểm liệt</span>
-                  <span>{criticalLearned}/{criticalTotal}</span>
-                </div>
-                <ProgressBar value={criticalTotal ? (criticalLearned / criticalTotal) * 100 : 0} />
-              </div>
+              <MetricProgress label="Hoàn thành bộ câu" value={learned} total={questions.length} />
+              <MetricProgress label="Câu điểm liệt" value={criticalLearned} total={criticalTotal} />
             </div>
             <div className="mt-5 flex flex-wrap gap-2">
               <Link className="h-11 rounded-md bg-slate-950 px-4 py-3 text-sm font-medium text-white" href="/study">
                 Vào chế độ học
+              </Link>
+              <Link className="h-11 rounded-md border border-red-200 bg-red-50 px-4 py-3 text-sm font-medium text-red-800" href="/study?mode=wrong">
+                Luyện câu sai
+              </Link>
+              <Link className="h-11 rounded-md border border-amber-200 bg-amber-50 px-4 py-3 text-sm font-medium text-amber-900" href="/study?mode=critical">
+                Luyện điểm liệt
               </Link>
               <Link className="h-11 rounded-md bg-emerald-700 px-4 py-3 text-sm font-medium text-white" href="/exam">
                 Thi thử hạng B
@@ -121,8 +149,33 @@ export function DashboardPage({ questions }: { questions: Question[] }) {
 
           <HistoryPanel history={latestHistory} />
         </div>
+
+        <section className="rounded-lg border border-slate-200 bg-white p-5">
+          <h2 className="text-lg font-semibold">Độ chính xác theo chương</h2>
+          <div className="mt-4 grid gap-3 md:grid-cols-2 xl:grid-cols-3">
+            {chapterAccuracy.map((item) => (
+              <div key={item.chapter} className="rounded-md bg-slate-50 p-3">
+                <MetricProgress label={`Chương ${item.chapter}`} value={item.answered} total={item.total} percent={item.accuracy} />
+                <p className="mt-2 text-sm font-medium text-slate-900">{item.accuracy}% đúng</p>
+              </div>
+            ))}
+          </div>
+        </section>
       </section>
     </Shell>
+  );
+}
+
+function MetricProgress({ label, value, total, percent }: { label: string; value: number; total: number; percent?: number }) {
+  const progress = percent ?? (total ? (value / total) * 100 : 0);
+  return (
+    <div>
+      <div className="mb-2 flex justify-between gap-3 text-sm text-slate-600">
+        <span>{label}</span>
+        <span>{value}/{total}</span>
+      </div>
+      <ProgressBar value={progress} />
+    </div>
   );
 }
 
@@ -154,23 +207,41 @@ function HistoryPanel({ history }: { history: ExamHistoryItem[] }) {
 export function StudyPage({ questions }: { questions: Question[] }) {
   const [progress, setProgress] = useStoredProgress();
   const [category, setCategory] = useState<QuestionCategory | "Tất cả">("Tất cả");
-  const [criticalOnly, setCriticalOnly] = useState(false);
+  const [mode, setMode] = useState<StudyMode>("all");
   const [query, setQuery] = useState("");
   const [current, setCurrent] = useState(0);
   const [sessionAnswers, setSessionAnswers] = useState<Record<number, number>>({});
 
+  useEffect(() => {
+    const timer = window.setTimeout(() => {
+      const modeParam = new URLSearchParams(window.location.search).get("mode");
+      if (studyModes.some((item) => item.key === modeParam)) {
+        setMode(modeParam as StudyMode);
+      }
+    }, 0);
+    return () => window.clearTimeout(timer);
+  }, []);
+
   const filteredQuestions = useMemo(() => {
     const normalized = query.trim().toLowerCase();
     return questions.filter((question) => {
+      const progressRecord = progress.answered[String(question.id)];
       const matchesCategory = category === "Tất cả" || question.category === category;
-      const matchesCritical = !criticalOnly || question.critical;
       const matchesQuery =
         !normalized ||
         question.question.toLowerCase().includes(normalized) ||
         question.answers.some((answer) => answer.toLowerCase().includes(normalized));
-      return matchesCategory && matchesCritical && matchesQuery;
+      const matchesMode =
+        mode === "all" ||
+        (mode === "unlearned" && !progressRecord) ||
+        (mode === "wrong" && progress.wrongQuestionIds.includes(question.id)) ||
+        (mode === "critical" && question.critical) ||
+        (mode === "withImage" && Boolean(question.image)) ||
+        (mode === "withTip" && questionHasTip(question));
+
+      return matchesCategory && matchesQuery && matchesMode;
     });
-  }, [category, criticalOnly, query, questions]);
+  }, [category, mode, progress.answered, progress.wrongQuestionIds, query, questions]);
 
   const activeQuestion = filteredQuestions[current] ?? filteredQuestions[0];
   const selectedAnswer = activeQuestion ? (sessionAnswers[activeQuestion.id] ?? progress.answered[String(activeQuestion.id)]?.selectedAnswer) : undefined;
@@ -215,18 +286,23 @@ export function StudyPage({ questions }: { questions: Question[] }) {
               placeholder="Nhập từ khóa"
               className="mt-4 h-11 w-full rounded-md border border-slate-200 bg-white px-3 text-sm outline-none ring-emerald-600 focus:ring-2"
             />
-            <label className="mt-4 flex items-center gap-2 text-sm text-slate-700">
-              <input
-                checked={criticalOnly}
-                onChange={(event) => {
-                  setCriticalOnly(event.target.checked);
-                  setCurrent(0);
-                }}
-                type="checkbox"
-                className="h-4 w-4 accent-emerald-700"
-              />
-              Chỉ câu điểm liệt
-            </label>
+            <div className="mt-4 grid grid-cols-2 gap-2">
+              {studyModes.map((item) => (
+                <button
+                  key={item.key}
+                  type="button"
+                  onClick={() => {
+                    setMode(item.key);
+                    setCurrent(0);
+                  }}
+                  className={`min-h-10 rounded-md px-3 text-left text-sm transition ${
+                    mode === item.key ? "bg-slate-950 text-white" : "bg-slate-50 text-slate-700 hover:bg-slate-100"
+                  }`}
+                >
+                  {item.label}
+                </button>
+              ))}
+            </div>
             <div className="mt-4 grid gap-2">
               {["Tất cả", ...categories].map((item) => (
                 <button
@@ -249,11 +325,7 @@ export function StudyPage({ questions }: { questions: Question[] }) {
 
         <section className="min-w-0">
           <div className="mb-4 rounded-lg border border-slate-200 bg-white p-4">
-            <div className="mb-2 flex justify-between text-sm text-slate-600">
-              <span>Tiến độ bộ lọc</span>
-              <span>{learnedCount}/{filteredQuestions.length}</span>
-            </div>
-            <ProgressBar value={filteredQuestions.length ? (learnedCount / filteredQuestions.length) * 100 : 0} />
+            <MetricProgress label="Tiến độ bộ lọc" value={learnedCount} total={filteredQuestions.length} />
           </div>
 
           {activeQuestion ? (
@@ -304,27 +376,19 @@ export function ExamPage({ questions }: { questions: Question[] }) {
 
   const submitExam = useCallback(
     (finalSecondsLeft = secondsLeft) => {
-      const wrongQuestions = examQuestions.filter((question) => answers[question.id] !== question.correctAnswer);
-      const criticalWrongQuestions = wrongQuestions.filter((question) => question.critical);
-      const score = EXAM_TOTAL - wrongQuestions.length;
-      const passed = score >= PASS_SCORE && criticalWrongQuestions.length === 0;
-      const reason = passed
-        ? "Đạt yêu cầu hạng B"
-        : criticalWrongQuestions.length
-          ? `Sai ${criticalWrongQuestions.length} câu điểm liệt`
-          : `Điểm dưới ${PASS_SCORE}/${EXAM_TOTAL}`;
-      const durationSeconds = EXAM_SECONDS - finalSecondsLeft;
-      const nextResult = { score, total: EXAM_TOTAL, passed, reason, wrongQuestions, criticalWrongQuestions, durationSeconds };
+      const nextResult = gradeBExam(examQuestions, answers, finalSecondsLeft);
       const history: ExamHistoryItem = {
         id: `${Date.now()}`,
         date: new Date().toISOString(),
-        score,
-        total: EXAM_TOTAL,
-        passed,
-        reason,
-        wrongQuestionIds: wrongQuestions.map((question) => question.id),
-        criticalWrongIds: criticalWrongQuestions.map((question) => question.id),
-        durationSeconds,
+        score: nextResult.score,
+        total: nextResult.total,
+        passed: nextResult.passed,
+        reason: nextResult.reason,
+        wrongQuestionIds: nextResult.wrongQuestions.map((question) => question.id),
+        criticalWrongIds: nextResult.criticalWrongQuestions.map((question) => question.id),
+        selectedAnswers: Object.fromEntries(Object.entries(answers).map(([id, answer]) => [String(id), answer])),
+        examQuestionIds: examQuestions.map((question) => question.id),
+        durationSeconds: nextResult.durationSeconds,
       };
       setResult(nextResult);
       setProgress((currentProgress) => ({
@@ -366,7 +430,7 @@ export function ExamPage({ questions }: { questions: Question[] }) {
   return (
     <Shell>
       {result ? (
-        <ResultDetails result={result} answers={answers} onRestart={restartExam} />
+        <ResultDetails result={result} answers={answers} onRestart={restartExam} questions={examQuestions} />
       ) : examQuestions.length === 0 ? (
         <ExamStartScreen selectedExam={selectedExam} onSelectExam={setSelectedExam} onStart={startExam} presetExams={presetExams} />
       ) : (
@@ -385,24 +449,10 @@ export function ExamPage({ questions }: { questions: Question[] }) {
                 </div>
               </dl>
               <div className="mt-4">
-                <div className="mb-2 flex justify-between text-sm text-slate-600">
-                  <span>Tiến độ</span>
-                  <span>{Math.round((answeredCount / EXAM_TOTAL) * 100)}%</span>
-                </div>
-                <ProgressBar value={(answeredCount / EXAM_TOTAL) * 100} />
+                <MetricProgress label="Tiến độ" value={answeredCount} total={EXAM_TOTAL} />
               </div>
               <p className="mt-4 rounded-md bg-amber-50 p-3 text-sm leading-6 text-amber-900">Gợi ý nhịp làm bài: trung bình khoảng {AVERAGE_SECONDS_PER_QUESTION} giây cho mỗi câu.</p>
-              <div className="mt-4 rounded-md bg-slate-50 p-3">
-                <p className="text-sm font-semibold text-slate-800">Cấu trúc đề hạng B</p>
-                <ul className="mt-2 grid gap-1 text-sm text-slate-600">
-                  {B_EXAM_BLUEPRINT.map((section) => (
-                    <li key={section.key} className="flex justify-between gap-3">
-                      <span>{section.label}</span>
-                      <span className="font-medium text-slate-900">{section.count}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
+              <ExamBlueprint />
               <button type="button" onClick={() => submitExam()} className="mt-4 h-11 w-full rounded-md bg-red-700 px-4 text-sm font-medium text-white">
                 Nộp bài
               </button>
@@ -439,8 +489,13 @@ export function ExamPage({ questions }: { questions: Question[] }) {
 
 export function ResultPage({ questions }: { questions: Question[] }) {
   const [progress] = useStoredProgress();
+  const [reviewMode, setReviewMode] = useState<ResultReviewMode>("wrong");
   const latest = progress.examHistory[0];
-  const wrongQuestions = latest ? questions.filter((question) => latest.wrongQuestionIds.includes(question.id)) : [];
+  const questionById = useMemo(() => new Map(questions.map((question) => [question.id, question])), [questions]);
+  const examQuestions = latest?.examQuestionIds?.length ? latest.examQuestionIds.map((id) => questionById.get(id)).filter((question): question is Question => Boolean(question)) : [];
+  const wrongQuestions = latest ? latest.wrongQuestionIds.map((id) => questionById.get(id)).filter((question): question is Question => Boolean(question)) : [];
+  const reviewQuestions = reviewMode === "all" && examQuestions.length ? examQuestions : wrongQuestions;
+  const latestAnswers = latest?.selectedAnswers ?? {};
 
   return (
     <Shell>
@@ -448,17 +503,41 @@ export function ResultPage({ questions }: { questions: Question[] }) {
         <HistoryPanel history={progress.examHistory.slice(0, 10)} />
         {latest ? (
           <div className="rounded-lg border border-slate-200 bg-white p-5">
-            <h2 className="text-lg font-semibold">Review lượt gần nhất</h2>
-            <p className="mt-2 text-sm text-slate-600">
-              {latest.score}/{latest.total} đúng · {latest.reason} · {formatTime(latest.durationSeconds)}
-            </p>
-            <div className="mt-4 grid gap-3">
-              {wrongQuestions.map((question) => (
-                <div key={question.id} className="rounded-md border border-slate-200 p-3">
-                  <p className="font-medium">Câu {question.id}: {question.question}</p>
-                  <p className="mt-1 text-sm text-emerald-700">Đáp án đúng: {question.answers[question.correctAnswer]}</p>
-                </div>
-              ))}
+            <div className="flex flex-col justify-between gap-3 sm:flex-row sm:items-start">
+              <div>
+                <h2 className="text-lg font-semibold">Review lượt gần nhất</h2>
+                <p className="mt-2 text-sm text-slate-600">
+                  {latest.score}/{latest.total} đúng · {latest.reason} · {formatTime(latest.durationSeconds)}
+                </p>
+              </div>
+              <div className="flex gap-2">
+                {(["wrong", "all"] as ResultReviewMode[]).map((item) => (
+                  <button
+                    key={item}
+                    type="button"
+                    onClick={() => setReviewMode(item)}
+                    className={`h-10 rounded-md px-3 text-sm font-medium ${reviewMode === item ? "bg-slate-950 text-white" : "border border-slate-200 bg-white text-slate-700"}`}
+                  >
+                    {item === "wrong" ? "Câu sai" : "Toàn bộ đề"}
+                  </button>
+                ))}
+              </div>
+            </div>
+            <div className="mt-4 grid gap-4">
+              {reviewQuestions.length ? (
+                reviewQuestions.map((question) => (
+                  <QuestionCard
+                    key={question.id}
+                    question={question}
+                    selectedAnswer={latestAnswers[String(question.id)]}
+                    showResult
+                    readOnly
+                    onSelect={() => undefined}
+                  />
+                ))
+              ) : (
+                <p className="rounded-md bg-emerald-50 p-4 text-sm text-emerald-800">Không có câu sai trong lượt gần nhất.</p>
+              )}
             </div>
           </div>
         ) : null}
@@ -509,18 +588,9 @@ function ExamStartScreen({
         </select>
 
         <div className="mt-5 grid gap-3 rounded-lg bg-slate-50 p-4 text-sm text-slate-700 sm:grid-cols-3">
-          <div>
-            <p className="text-slate-500">Số câu</p>
-            <p className="mt-1 text-xl font-semibold text-slate-950">{EXAM_TOTAL}</p>
-          </div>
-          <div>
-            <p className="text-slate-500">Thời gian</p>
-            <p className="mt-1 text-xl font-semibold text-slate-950">{formatTime(EXAM_SECONDS)}</p>
-          </div>
-          <div>
-            <p className="text-slate-500">Điểm liệt</p>
-            <p className="mt-1 text-xl font-semibold text-red-700">{criticalCount ?? ">= 1"}</p>
-          </div>
+          <ExamStat label="Số câu" value={EXAM_TOTAL.toString()} />
+          <ExamStat label="Thời gian" value={formatTime(EXAM_SECONDS)} />
+          <ExamStat label="Điểm liệt" value={`${criticalCount ?? ">= 1"}`} tone="red" />
         </div>
 
         <button type="button" onClick={onStart} className="mt-6 h-12 w-full rounded-md bg-slate-950 px-5 text-base font-semibold text-white hover:bg-slate-800 sm:w-auto">
@@ -530,21 +600,52 @@ function ExamStartScreen({
 
       <aside className="rounded-lg border border-slate-200 bg-white p-5">
         <h3 className="text-base font-semibold">Cấu trúc đề</h3>
-        <ul className="mt-4 grid gap-2 text-sm text-slate-600">
-          {B_EXAM_BLUEPRINT.map((section) => (
-            <li key={section.key} className="flex justify-between gap-3 rounded-md bg-slate-50 px-3 py-2">
-              <span>{section.label}</span>
-              <span className="font-semibold text-slate-950">{section.count}</span>
-            </li>
-          ))}
-        </ul>
+        <ExamBlueprint />
         <p className="mt-4 rounded-md bg-red-50 p-3 text-sm leading-6 text-red-800">Sai câu điểm liệt trong đề sẽ trượt ngay theo quy tắc sát hạch.</p>
       </aside>
     </section>
   );
 }
 
-function ResultDetails({ result, answers, onRestart }: { result: ExamResult; answers: Record<number, number>; onRestart: () => void }) {
+function ExamStat({ label, value, tone = "slate" }: { label: string; value: string; tone?: "slate" | "red" }) {
+  return (
+    <div>
+      <p className="text-slate-500">{label}</p>
+      <p className={`mt-1 text-xl font-semibold ${tone === "red" ? "text-red-700" : "text-slate-950"}`}>{value}</p>
+    </div>
+  );
+}
+
+function ExamBlueprint() {
+  return (
+    <div className="mt-4 rounded-md bg-slate-50 p-3">
+      <p className="text-sm font-semibold text-slate-800">Cấu trúc đề hạng B</p>
+      <ul className="mt-2 grid gap-1 text-sm text-slate-600">
+        {B_EXAM_BLUEPRINT.map((section) => (
+          <li key={section.key} className="flex justify-between gap-3">
+            <span>{section.label}</span>
+            <span className="font-medium text-slate-900">{section.count}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+function ResultDetails({
+  result,
+  answers,
+  onRestart,
+  questions,
+}: {
+  result: ExamResult;
+  answers: Record<number, number>;
+  onRestart: () => void;
+  questions: Question[];
+}) {
+  const [reviewMode, setReviewMode] = useState<ResultReviewMode>("wrong");
+  const reviewQuestions = reviewMode === "wrong" ? result.wrongQuestions : questions;
+
   return (
     <section className="grid gap-5">
       <div className="rounded-lg border border-slate-200 bg-white p-5">
@@ -561,15 +662,32 @@ function ResultDetails({ result, answers, onRestart }: { result: ExamResult; ans
       </div>
 
       <div className="rounded-lg border border-slate-200 bg-white p-5">
-        <h3 className="text-lg font-semibold">Review câu sai</h3>
+        <div className="flex flex-col justify-between gap-3 sm:flex-row sm:items-center">
+          <h3 className="text-lg font-semibold">Review bài làm</h3>
+          <div className="flex gap-2">
+            {(["wrong", "all"] as ResultReviewMode[]).map((item) => (
+              <button
+                key={item}
+                type="button"
+                onClick={() => setReviewMode(item)}
+                className={`h-10 rounded-md px-3 text-sm font-medium ${reviewMode === item ? "bg-slate-950 text-white" : "border border-slate-200 bg-white text-slate-700"}`}
+              >
+                {item === "wrong" ? "Câu sai" : "Toàn bộ đề"}
+              </button>
+            ))}
+          </div>
+        </div>
         <div className="mt-4 grid gap-4">
-          {result.wrongQuestions.length ? (
-            result.wrongQuestions.map((question) => (
-              <div key={question.id} className="rounded-lg border border-slate-200 p-4">
-                <p className="font-medium leading-7">Câu {question.id}: {question.question}</p>
-                <p className="mt-2 text-sm text-red-700">Bạn chọn: {answers[question.id] !== undefined ? question.answers[answers[question.id]] : "Chưa chọn"}</p>
-                <p className="mt-1 text-sm text-emerald-700">Đáp án đúng: {question.answers[question.correctAnswer]}</p>
-              </div>
+          {reviewQuestions.length ? (
+            reviewQuestions.map((question) => (
+              <QuestionCard
+                key={question.id}
+                question={question}
+                selectedAnswer={answers[question.id]}
+                showResult
+                readOnly
+                onSelect={() => undefined}
+              />
             ))
           ) : (
             <p className="rounded-md bg-emerald-50 p-4 text-sm text-emerald-800">Không có câu sai.</p>

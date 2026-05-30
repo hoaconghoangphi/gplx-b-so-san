@@ -1,27 +1,63 @@
 "use client";
 
 import Image from "next/image";
-import type { Question } from "@/lib/types";
+import type { ExplanationReview, ExplanationSource, Question, TipSource } from "@/lib/types";
+
+const explanationSourceLabels: Record<ExplanationSource, string> = {
+  "official-capture": "Nguồn hệ thống chính thức",
+  "paper-note": "Tài liệu giấy",
+  source: "Nguồn tham khảo",
+  "ai-draft": "AI nháp",
+  manual: "Nhập tay",
+};
+
+const tipSourceLabels: Record<TipSource, string> = {
+  "paper-note": "Tài liệu giấy",
+  source: "Nguồn tham khảo",
+  "ai-draft": "AI nháp",
+  manual: "Nhập tay",
+};
+
+const reviewLabels: Record<ExplanationReview, string> = {
+  verified: "Đã kiểm chứng",
+  "needs-review": "Cần rà lại",
+};
+
+function SourceBadge({ children, tone = "slate" }: { children: React.ReactNode; tone?: "slate" | "amber" | "emerald" }) {
+  const toneClass =
+    tone === "emerald"
+      ? "bg-emerald-100 text-emerald-800"
+      : tone === "amber"
+        ? "bg-amber-100 text-amber-900"
+        : "bg-slate-100 text-slate-700";
+
+  return <span className={`rounded-md px-2 py-1 text-xs font-medium ${toneClass}`}>{children}</span>;
+}
 
 export function QuestionCard({
   question,
   selectedAnswer,
   showResult,
   onSelect,
+  readOnly = false,
 }: {
   question: Question;
   selectedAnswer?: number;
   showResult: boolean;
   onSelect: (answerIndex: number) => void;
+  readOnly?: boolean;
 }) {
+  const hasSelectedAnswer = selectedAnswer !== undefined;
+  const selectedIsCorrect = hasSelectedAnswer && selectedAnswer === question.correctAnswer;
+
   return (
     <div className="rounded-lg border border-slate-200 bg-white">
       <div className="border-b border-slate-200 p-5">
         <div className="flex flex-wrap gap-2">
-          <span className="rounded-md bg-slate-100 px-2 py-1 text-xs font-medium text-slate-700">Câu {question.id}</span>
-          <span className="rounded-md bg-slate-100 px-2 py-1 text-xs font-medium text-slate-700">Chương {question.chapter}</span>
-          <span className="rounded-md bg-slate-100 px-2 py-1 text-xs font-medium text-slate-700">{question.category}</span>
-          {question.critical ? <span className="rounded-md bg-red-100 px-2 py-1 text-xs font-semibold text-red-700">Điểm liệt</span> : null}
+          <SourceBadge>Câu {question.id}</SourceBadge>
+          <SourceBadge>Chương {question.chapter}</SourceBadge>
+          <SourceBadge>{question.category}</SourceBadge>
+          {question.critical ? <SourceBadge tone="amber">Điểm liệt</SourceBadge> : null}
         </div>
         <h2 className="mt-4 text-xl font-semibold leading-8">{question.question}</h2>
       </div>
@@ -40,6 +76,7 @@ export function QuestionCard({
             <button
               key={`${question.id}-${index}-${answer}`}
               type="button"
+              disabled={readOnly}
               onClick={() => onSelect(index)}
               className={`min-h-16 rounded-lg border px-4 py-3 text-left text-base leading-7 transition ${
                 showResult && correct
@@ -58,9 +95,33 @@ export function QuestionCard({
       </div>
 
       {showResult ? (
-        <div className="border-t border-slate-200 bg-slate-50 p-5 text-sm leading-6 text-slate-700">
-          <span className="font-semibold text-slate-950">Giải thích: </span>
-          {question.explanation || "PDF gốc không có phần giải thích tách riêng. Bạn có thể bổ sung sau trong JSON."}
+        <div className="grid gap-4 border-t border-slate-200 bg-slate-50 p-5 text-sm leading-6 text-slate-700">
+          {hasSelectedAnswer ? (
+            <div className={selectedIsCorrect ? "rounded-md bg-emerald-50 p-3 text-emerald-900" : "rounded-md bg-red-50 p-3 text-red-900"}>
+              <span className="font-semibold">{selectedIsCorrect ? "Bạn chọn đúng." : "Bạn chọn sai."}</span>{" "}
+              Đáp án đúng: <span className="font-semibold">{String.fromCharCode(65 + question.correctAnswer)}. {question.answers[question.correctAnswer]}</span>
+            </div>
+          ) : null}
+
+          <div>
+            <div className="mb-2 flex flex-wrap items-center gap-2">
+              <span className="font-semibold text-slate-950">Giải thích</span>
+              {question.explanationSource ? <SourceBadge>{explanationSourceLabels[question.explanationSource]}</SourceBadge> : null}
+              {question.explanationReview ? <SourceBadge tone={question.explanationReview === "verified" ? "emerald" : "amber"}>{reviewLabels[question.explanationReview]}</SourceBadge> : null}
+            </div>
+            <p>{question.explanation || "Chưa có giải thích riêng. Câu này sẽ được đưa vào danh sách cần bổ sung từ nguồn chính thức, tài liệu giấy hoặc ghi chú đã rà."}</p>
+            {question.verifiedAgainst ? <p className="mt-2 text-xs text-slate-500">Đối chiếu: {question.verifiedAgainst}</p> : null}
+          </div>
+
+          {question.memoryTip ? (
+            <div className="rounded-md border border-amber-200 bg-amber-50 p-3 text-amber-950">
+              <div className="mb-1 flex flex-wrap items-center gap-2">
+                <span className="font-semibold">Mẹo nhớ</span>
+                {question.tipSource ? <SourceBadge tone="amber">{tipSourceLabels[question.tipSource]}</SourceBadge> : null}
+              </div>
+              <p>{question.memoryTip}</p>
+            </div>
+          ) : null}
         </div>
       ) : null}
     </div>

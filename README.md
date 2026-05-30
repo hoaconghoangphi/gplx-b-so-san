@@ -55,6 +55,23 @@ npm run start
 
 Production server local cung dung port `3002`.
 
+## Kiem tra chat luong
+
+```bash
+npm run lint
+npm run validate:data
+npm run test
+npm run check
+```
+
+Chay E2E browser test:
+
+```bash
+npm run test:e2e
+```
+
+`validate:data` kiem tra bo 600 cau, cau diem liet, anh, dap an va report cac cau chua co giai thich/meo hoc.
+
 ## Cau truc project
 
 ```text
@@ -84,6 +101,9 @@ src/
 
 - Bo 600 cau hoi va anh duoc luu trong repo
 - Tien do hoc, lich su thi, cau sai duoc luu trong `localStorage`
+- Ke hoach nang cap va quy trinh verify nam tai `docs/upgrade-plan.md`
+- Anh chup he thong chinh thuc dat trong `reference/official-captures/`
+- Anh tai lieu giay/meo hoc dat trong `reference/paper-notes/`
 
 ## Deploy
 

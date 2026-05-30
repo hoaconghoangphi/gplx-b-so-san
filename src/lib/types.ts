@@ -6,6 +6,10 @@ export type QuestionCategory =
   | "Báo hiệu đường bộ"
   | "Giải thế sa hình và kỹ năng xử lý tình huống giao thông";
 
+export type ExplanationSource = "official-capture" | "paper-note" | "source" | "ai-draft" | "manual";
+export type ExplanationReview = "verified" | "needs-review";
+export type TipSource = "paper-note" | "source" | "ai-draft" | "manual";
+
 export type Question = {
   id: number;
   category: QuestionCategory;
@@ -14,6 +18,11 @@ export type Question = {
   answers: string[];
   correctAnswer: number;
   explanation: string;
+  explanationSource?: ExplanationSource;
+  explanationReview?: ExplanationReview;
+  verifiedAgainst?: string;
+  memoryTip?: string;
+  tipSource?: TipSource;
   critical: boolean;
   image: string | null;
   sourceImage?: string;
@@ -35,6 +44,8 @@ export type ExamHistoryItem = {
   reason: string;
   wrongQuestionIds: number[];
   criticalWrongIds: number[];
+  selectedAnswers?: Record<string, number>;
+  examQuestionIds?: number[];
   durationSeconds: number;
 };
 
