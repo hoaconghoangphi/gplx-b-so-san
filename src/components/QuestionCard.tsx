@@ -64,8 +64,8 @@ export function QuestionCard({
 
       <div className="grid gap-3 p-5">
         {question.image ? (
-          <div className="overflow-hidden rounded-lg border border-slate-200 bg-slate-50">
-            <Image src={question.image} alt={`Hình minh họa câu ${question.id}`} width={960} height={540} className="h-auto w-full object-contain" unoptimized />
+          <div className="flex h-72 items-center justify-center overflow-hidden rounded-lg border border-slate-200 bg-slate-50 sm:h-80">
+            <Image src={question.image} alt={`Hình minh họa câu ${question.id}`} width={960} height={540} className="max-h-full max-w-full h-auto w-auto object-contain" unoptimized />
           </div>
         ) : null}
 
@@ -88,7 +88,7 @@ export function QuestionCard({
                       : "border-slate-200 bg-white text-slate-800 hover:bg-slate-50"
               }`}
             >
-              <span className="font-semibold">{String.fromCharCode(65 + index)}.</span> {answer}
+              <span className="font-semibold">{index + 1}.</span> {answer}
             </button>
           );
         })}
@@ -99,7 +99,7 @@ export function QuestionCard({
           {hasSelectedAnswer ? (
             <div className={selectedIsCorrect ? "rounded-md bg-emerald-50 p-3 text-emerald-900" : "rounded-md bg-red-50 p-3 text-red-900"}>
               <span className="font-semibold">{selectedIsCorrect ? "Bạn chọn đúng." : "Bạn chọn sai."}</span>{" "}
-              Đáp án đúng: <span className="font-semibold">{String.fromCharCode(65 + question.correctAnswer)}. {question.answers[question.correctAnswer]}</span>
+              Đáp án đúng: <span className="font-semibold">{question.correctAnswer + 1}. {question.answers[question.correctAnswer]}</span>
             </div>
           ) : null}
 

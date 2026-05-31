@@ -19,6 +19,7 @@ import {
   gradeBExam,
   makeBExam,
 } from "@/lib/exam";
+import { useQuestionKeyboard } from "@/lib/keyboard";
 import { emptyProgress, readProgress, writeProgress } from "@/lib/storage";
 import type { ExamHistoryItem, ExamResult, Question, QuestionCategory, StoredProgress } from "@/lib/types";
 
@@ -247,6 +248,14 @@ export function StudyPage({ questions }: { questions: Question[] }) {
   const selectedAnswer = activeQuestion ? (sessionAnswers[activeQuestion.id] ?? progress.answered[String(activeQuestion.id)]?.selectedAnswer) : undefined;
   const learnedCount = filteredQuestions.filter((question) => progress.answered[String(question.id)]).length;
 
+  useQuestionKeyboard({
+    enabled: Boolean(activeQuestion),
+    answerCount: activeQuestion?.answers.length ?? 0,
+    onSelect: (idx) => activeQuestion && recordAnswer(activeQuestion, idx),
+    onPrev: () => setCurrent((v) => Math.max(0, v - 1)),
+    onNext: () => setCurrent((v) => Math.min(filteredQuestions.length - 1, v + 1)),
+  });
+
   function recordAnswer(question: Question, answerIndex: number) {
     const correct = answerIndex === question.correctAnswer;
     setSessionAnswers((answers) => ({ ...answers, [question.id]: answerIndex }));
@@ -418,6 +427,16 @@ export function ExamPage({ questions }: { questions: Question[] }) {
 
   const activeQuestion = examQuestions[current];
   const answeredCount = examQuestions.filter((question) => answers[question.id] !== undefined).length;
+
+  useQuestionKeyboard({
+    enabled: Boolean(activeQuestion) && !result,
+    answerCount: activeQuestion?.answers.length ?? 0,
+    onSelect: (idx) => {
+      if (activeQuestion) setAnswers((current) => ({ ...current, [activeQuestion.id]: idx }));
+    },
+    onPrev: () => setCurrent((v) => Math.max(0, v - 1)),
+    onNext: () => setCurrent((v) => Math.min(examQuestions.length - 1, v + 1)),
+  });
 
   function restartExam() {
     setExamQuestions([]);
