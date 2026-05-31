@@ -1,31 +1,10 @@
 {
-  "matches": 593,
+  "matches": 596,
   "indexMismatchOnly": [],
   "textMismatch": [],
-  "mismatches": [
-    {
-      "id": 527,
-      "chapter": 6,
-      "pdfIdx": 2,
-      "jsonIdx": 0,
-      "pdfText": "3. Xe con.",
-      "jsonAnswerAtPdfIdx": "Xe con.",
-      "jsonAnswerAtJsonIdx": "Xe khách.",
-      "simAtPdfIdx": 0.6666666666666666,
-      "bestIdx": 2,
-      "bestSim": 0.6666666666666666
-    }
-  ],
+  "mismatches": [],
   "missingInJson": [],
   "missingInPdf": [
-    {
-      "id": 301,
-      "chapter": 5
-    },
-    {
-      "id": 352,
-      "chapter": 5
-    },
     {
       "id": 474,
       "chapter": 5
