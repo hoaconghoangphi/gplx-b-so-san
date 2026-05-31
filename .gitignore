@@ -55,6 +55,14 @@ reports/tips-review.html
 
 # user-exported review decisions (per-run)
 reports/tips-decisions.json
+
+# Data tooling artifacts (chưa commit phase này)
+reference/paper-notes/*.pdf
+reference/official-captures/
+scripts/__pycache__/
+reports/questions-before-*-apply.json
+reports/tips-review.html
+reports/tips-decisions.json
 # typescript
 *.tsbuildinfo
 next-env.d.ts
