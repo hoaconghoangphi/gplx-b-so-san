@@ -41,6 +41,20 @@ dev-server*.log
 # vercel
 .vercel
 
+# large/binary artifacts
+reference/paper-notes/*.pdf
+reference/official-captures/
+scripts/__pycache__/
+
+# temp pdf extracts
+*.pdftest*
+
+# generated review tool + per-run backups
+reports/questions-before-*-apply.json
+reports/tips-review.html
+
+# user-exported review decisions (per-run)
+reports/tips-decisions.json
 # typescript
 *.tsbuildinfo
 next-env.d.ts

@@ -9,6 +9,13 @@
     "lint": "eslint",
     "validate:data": "node scripts/validate-data.mjs",
     "match:references": "node scripts/match-references.mjs",
+    "build:capture-todo": "node scripts/build-capture-todo.mjs",
+    "find:duplicates": "node scripts/find-duplicate-questions.mjs",
+    "extract:pdf": "python3 scripts/extract-pdf-answers.py",
+    "diff:pdf-json": "node scripts/diff-pdf-vs-json.mjs",
+    "apply:pdf-fixes": "node scripts/apply-pdf-fixes.mjs",
+    "review:tips": "node scripts/build-tips-review.mjs",
+    "apply:tips": "node scripts/apply-tips-decisions.mjs",
     "test": "vitest run",
     "test:e2e": "playwright test",
     "check": "npm run lint && npm run validate:data && npm run test"

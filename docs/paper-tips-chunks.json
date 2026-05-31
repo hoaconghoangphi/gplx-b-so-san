@@ -1,0 +1,798 @@
+[
+  {
+    "chunkId": "paper-page6-answer-avoid",
+    "page": 6,
+    "topic": "Nhận dạng đáp án sai",
+    "text": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "keywords": [
+      "tang toc",
+      "tang so",
+      "den chieu xa",
+      "so 0",
+      "ben trai",
+      "lan duong it phuong tien"
+    ],
+    "targetQuestionIds": [
+      34,
+      36,
+      40,
+      43,
+      44,
+      46,
+      51,
+      62,
+      79,
+      81,
+      82,
+      84,
+      87,
+      91,
+      92,
+      93,
+      96,
+      100,
+      103,
+      109,
+      110,
+      117,
+      167,
+      214,
+      215,
+      216,
+      217,
+      218,
+      221,
+      225,
+      236,
+      237,
+      238,
+      240,
+      241,
+      243,
+      244,
+      245,
+      246,
+      248,
+      253,
+      254,
+      259,
+      265,
+      270,
+      346,
+      354,
+      404,
+      417,
+      470,
+      472,
+      552,
+      572,
+      573,
+      577,
+      578,
+      579,
+      580,
+      582,
+      587,
+      590,
+      595,
+      596,
+      600
+    ],
+    "sourceType": "paper-note-draft"
+  },
+  {
+    "chunkId": "paper-page6-answer-positive",
+    "page": 6,
+    "topic": "Nhận dạng đáp án đúng",
+    "text": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "keywords": [
+      "bi nghiem cam",
+      "khong duoc phep",
+      "khong duoc",
+      "ve so thap",
+      "den chieu gan"
+    ],
+    "targetQuestionIds": [
+      14,
+      24,
+      31,
+      42,
+      47,
+      51,
+      63,
+      67,
+      73,
+      74,
+      81,
+      86,
+      98,
+      103,
+      110,
+      197,
+      212,
+      213,
+      215,
+      221,
+      222,
+      223,
+      224,
+      225,
+      237,
+      240,
+      243,
+      244,
+      245,
+      252,
+      336,
+      344,
+      348,
+      355,
+      356,
+      357,
+      454,
+      556,
+      558,
+      577,
+      595,
+      598
+    ],
+    "sourceType": "paper-note-draft"
+  },
+  {
+    "chunkId": "paper-page6-age",
+    "page": 6,
+    "topic": "Tuổi người lái xe",
+    "text": "tuổi: 16 tuổi xe gắn máy; 18 tuổi hạng A1/A/B1/B/C1; 21 tuổi hạng C; 24 tuổi hạng D1/D2/C1E/CE; 27 tuổi hạng D/DE; hạng D tối đa nam 57, nữ 55.",
+    "keywords": [
+      "16 tuoi",
+      "18 tuoi",
+      "21 tuoi",
+      "24 tuoi",
+      "27 tuoi",
+      "nam 57",
+      "nu 55",
+      "hang d"
+    ],
+    "targetQuestionIds": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123
+    ],
+    "sourceType": "paper-note-curated"
+  },
+  {
+    "chunkId": "paper-page6-license-classes",
+    "page": 6,
+    "topic": "Các hạng GPLX",
+    "text": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "keywords": [
+      "hang gplx",
+      "a1",
+      "125cm3",
+      "b",
+      "3 500kg",
+      "c1",
+      "7 500kg",
+      "be ce de"
+    ],
+    "targetQuestionIds": [
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "sourceType": "paper-note-curated"
+  },
+  {
+    "chunkId": "paper-page7-speed-special",
+    "page": 7,
+    "topic": "Tốc độ xe đặc thù",
+    "text": "tốc độ xe đặc thù: xe chở người 4 bánh có gắn động cơ 30km/h; xe máy chuyên dùng, xe gắn máy 40km/h; xe chở hàng 4 bánh có gắn động cơ 50km/h.",
+    "keywords": [
+      "xe may chuyen dung",
+      "xe gan may",
+      "xe cho hang bon banh",
+      "30km h",
+      "40km h",
+      "50km h"
+    ],
+    "targetQuestionIds": [
+      144,
+      157
+    ],
+    "sourceType": "paper-note-curated"
+  },
+  {
+    "chunkId": "paper-page7-speed-general",
+    "page": 7,
+    "topic": "Tốc độ trong và ngoài khu dân cư",
+    "text": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "keywords": [
+      "khu dan cu",
+      "duong doi",
+      "duong hai chieu",
+      "ngoai khu dan cu",
+      "90 80",
+      "80 70",
+      "70 60",
+      "60 50"
+    ],
+    "targetQuestionIds": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156
+    ],
+    "sourceType": "paper-note-curated"
+  },
+  {
+    "chunkId": "paper-page7-safe-distance",
+    "page": 7,
+    "topic": "Khoảng cách an toàn",
+    "text": "khoảng cách an toàn lấy tốc độ lớn trừ 30 rồi chọn số mét gần nhất. 60km/h = 35m; 60-80 = 55m; 80-100 = 70m; 100-120 = 100m.",
+    "keywords": [
+      "khoang cach an toan",
+      "60km h",
+      "35m",
+      "55m",
+      "70m",
+      "100m"
+    ],
+    "targetQuestionIds": [
+      158,
+      159,
+      160,
+      161,
+      162
+    ],
+    "sourceType": "paper-note-curated"
+  },
+  {
+    "chunkId": "paper-page2-danger-signs",
+    "page": 2,
+    "topic": "Biển báo nguy hiểm",
+    "text": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "keywords": [
+      "bien bao nguy hiem",
+      "tam giac",
+      "nen vang",
+      "vien do",
+      "giam toc do",
+      "chu y quan sat"
+    ],
+    "targetQuestionIds": [
+      331,
+      370,
+      373,
+      407,
+      409,
+      415,
+      416,
+      417,
+      421,
+      422,
+      423,
+      425,
+      473,
+      475
+    ],
+    "sourceType": "paper-note-curated"
+  },
+  {
+    "chunkId": "paper-page3-prohibition-signs",
+    "page": 3,
+    "topic": "Biển báo cấm",
+    "text": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "keywords": [
+      "bien bao cam",
+      "hinh tron",
+      "vien do",
+      "nen trang",
+      "dieu cam"
+    ],
+    "targetQuestionIds": [
+      301,
+      302,
+      303,
+      304,
+      306,
+      310,
+      311,
+      313,
+      314,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      323,
+      325,
+      330,
+      331,
+      334,
+      339,
+      340,
+      343,
+      346,
+      347,
+      351,
+      354,
+      358,
+      438,
+      439,
+      445,
+      446,
+      462,
+      463
+    ],
+    "sourceType": "paper-note-curated"
+  },
+  {
+    "chunkId": "paper-page4-command-signs",
+    "page": 4,
+    "topic": "Biển hiệu lệnh",
+    "text": "Biển hiệu lệnh thường hình tròn hoặc chữ nhật màu xanh, hình vẽ màu trắng; báo các điều bắt buộc người tham gia giao thông phải chấp hành.",
+    "keywords": [
+      "bien hieu lenh",
+      "mau xanh",
+      "hinh ve mau trang",
+      "bat buoc",
+      "chap hanh"
+    ],
+    "targetQuestionIds": [
+      335,
+      364,
+      366,
+      437,
+      455
+    ],
+    "sourceType": "paper-note-curated"
+  },
+  {
+    "chunkId": "paper-page4-guide-signs",
+    "page": 4,
+    "topic": "Biển chỉ dẫn",
+    "text": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "keywords": [
+      "bien chi dan",
+      "hinh vuong",
+      "chu nhat",
+      "nen xanh lam",
+      "chu mau trang"
+    ],
+    "targetQuestionIds": [
+      363,
+      365,
+      381,
+      391,
+      399,
+      412,
+      444,
+      445,
+      446,
+      450,
+      451,
+      454,
+      456,
+      460,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475
+    ],
+    "sourceType": "paper-note-curated"
+  },
+  {
+    "chunkId": "paper-page5-supplementary-signs",
+    "page": 5,
+    "topic": "Biển phụ",
+    "text": "Biển phụ thường hình vuông hoặc chữ nhật, nền trắng chữ đen hoặc nền xanh chữ trắng; đặt dưới biển chính để bổ sung, làm rõ phạm vi, đối tượng, thời gian tác dụng.",
+    "keywords": [
+      "bien phu",
+      "nen trang",
+      "chu den",
+      "pham vi tac dung",
+      "doi tuong",
+      "thoi gian"
+    ],
+    "targetQuestionIds": [
+      347,
+      351
+    ],
+    "sourceType": "paper-note-curated"
+  },
+  {
+    "chunkId": "paper-page5-road-markings",
+    "page": 5,
+    "topic": "Vạch kẻ đường",
+    "text": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "keywords": [
+      "vach ke duong",
+      "vach lien",
+      "vach dut",
+      "vach vang",
+      "vach trang",
+      "phan chia"
+    ],
+    "targetQuestionIds": [
+      411,
+      421,
+      422,
+      423,
+      431,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485
+    ],
+    "sourceType": "paper-note-curated"
+  },
+  {
+    "chunkId": "paper-page7-construction",
+    "page": 7,
+    "topic": "Cấu tạo sửa chữa",
+    "text": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "keywords": [
+      "boi tron",
+      "dong co",
+      "truyen luc",
+      "ly hop",
+      "hop so",
+      "he thong lai",
+      "he thong phanh"
+    ],
+    "targetQuestionIds": [
+      264,
+      265,
+      270,
+      272,
+      274,
+      275,
+      276,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      295,
+      299,
+      300
+    ],
+    "sourceType": "paper-note-curated"
+  },
+  {
+    "chunkId": "page1-toc-do-toi-da-cho-phep-1",
+    "page": 1,
+    "topic": "TÓC ĐỘ TÓI ĐA CHO PHÉP",
+    "text": "ừ đường cao tóc) ˆ ân cư (tr ực đông dã Tốc độ khai thác tôi đz ` AM ` (km/h Đường đôi;",
+    "keywords": [
+      "dong",
+      "khai",
+      "phep",
+      "thac"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "page": 1,
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "text": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "keywords": [
+      "chuyen",
+      "dung",
+      "giao",
+      "khai",
+      "loai",
+      "phep",
+      "thac",
+      "tham"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-cho-nguoi-bon-banh-co-gan--3",
+    "page": 1,
+    "topic": "Tóc độ khai thác tôi đa cho phép đồi với xe chở người bồn bánh có gắn động",
+    "text": "cơ, xe chở hàng bôn bánh có găn động cơ tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "keywords": [
+      "banh dong",
+      "banh",
+      "dong",
+      "giao",
+      "hang",
+      "khai",
+      "phep",
+      "thac"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-cho-hang-bon-banh-co-gan-d-4",
+    "page": 1,
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe chở hàng bồn bánh có gắn động cơ",
+    "text": "tham gia giao thông trên đường bộ (trừ đường cao tốc)",
+    "keywords": [
+      "banh",
+      "dong",
+      "giao",
+      "hang",
+      "khai",
+      "phep",
+      "thac",
+      "tham"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page1-toc-do-luu-hanh-v-km-h-khoang-cach-an-toan-m-5",
+    "page": 1,
+    "topic": "Tốc độ lưu hành (V km/h) Khoảng cách an toàn (m)",
+    "text": "mau 2 mi \"BI ‹Vao Tớ su, II 80 <V < 100 Xe mô tô (Xe máy) Xe kéo rTØ-mmOÓC rơ-moóc",
+    "keywords": [
+      "hanh",
+      "khoang",
+      "mmooc",
+      "mooc",
+      "toan"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "page": 2,
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "text": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "keywords": [
+      "nguy hiem",
+      "bien nguy",
+      "hiem",
+      "nguy",
+      "bien",
+      "dung",
+      "hinh",
+      "biet"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page2-duong-uu-tien-xe-dap-cat-ngang-2",
+    "page": 2,
+    "topic": "đường ưu tiên xe đạp cắt ngang",
+    "text": "Đường người đi Giao nhau với Kết thúc đường bộ cắt ngang đường hai chiều đôi Cầu võng Đoạn đường hay xảy ra tai nạn Đường cao tốc phía trước Ùn tắc giao thông Đường trơn Gia súc Đường cáp điện ở phía trên Kè, vực sâu Kẻ, An ĐC;",
+    "keywords": [
+      "giao",
+      "ngang",
+      "phia",
+      "chieu",
+      "dien",
+      "doan",
+      "nhau",
+      "thong"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page3-trang-3-1",
+    "page": 3,
+    "topic": "Trang 3",
+    "text": ".À á M ¿ - cên báo cầm: có dạng hình tròn, viên đỏ, nên trăng, hình vẽ màu đ en",
+    "keywords": [
+      "trang hinh",
+      "hinh",
+      "trang",
+      "tron",
+      "vien"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page3-bien-bao-ca-bao-cam-de-bieu-thi-cac-dieu-cam-nguoi-tham-gia-giao-thong-2",
+    "page": 3,
+    "topic": "Biên báo ca báo cầm để biểu thị các điều câm. Người tham gia giao thông phải k",
+    "text": "In: điều L à biển đã báo. hành những điều cầm m lê Ẩ ˆ ˆ Câm xe mô tô 3 bánh (không cám xe gắn máy) Cẩm xe kéo rơ-moóc s A+A 4: x âm xe ôtô khách Cắm xe ôtô và Câm xe 010 - và xe ôtô tải xe môtô khách Cấm xe ba bánh s7 Ễ loại không có Cảm CáC Xe chở động cơ hàng nguy hiểm Cắm rỆ trái Cấm quay đầu x.",
+    "keywords": [
+      "dieu",
+      "banh",
+      "bien",
+      "khach",
+      "bieu",
+      "dong",
+      "giao",
+      "hang"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page3-toc-do-toi-da-cho-in-toa-3",
+    "page": 3,
+    "topic": "Tốc độ tối đa cho. In Toà",
+    "text": "phép về ban đêm Cấm sử dụng còi Biển tốc độ Biển hết hạn chê LG ào ~ tối đa cho phép Hết tất cả các đám Hiên Hết hạn chê tốc tốc độ tồi đa trên từng làn - 2 ng làn lệnh cắm uc nhánh độ tôi đa cho phép ường",
+    "keywords": [
+      "phep",
+      "bien",
+      "dung",
+      "hien",
+      "lenh",
+      "nhanh",
+      "tren",
+      "tung"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page4-trang-4-1",
+    "page": 4,
+    "topic": "Trang 4",
+    "text": "Nhóm biên hiệu lệnh: Các biển có dạng hình tròn, hình chữ nhật màu xanh, hình ình vẽ mảu trắng.",
+    "keywords": [
+      "hinh",
+      "bien",
+      "trang",
+      "hieu",
+      "lenh",
+      "nhat",
+      "nhom",
+      "tron"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page5-trang-5-1",
+    "page": 5,
+    "topic": "Trang 5",
+    "text": "6856T Trạm cảnh sát ¡a đường cho người đi bộ:. - giao thông Hâm ch rờng cho người đi bộ",
+    "keywords": [
+      "6856t",
+      "canh",
+      "giao",
+      "rong",
+      "thong",
+      "tram",
+      "trang"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page5-weigh-station-2",
+    "page": 5,
+    "topic": "WEIGH STATION",
+    "text": "Đường phía trước có lản đường dành cho ô tô khách Cầu vượt qua đt n thoát xe Biên tên đường Trạm kiêm tra tải ì Ÿ -ứu nạn hay là àn đường cứu nạn hay {: L ân cá đôi ngoại khân câp",
+    "keywords": [
+      "bien",
+      "danh",
+      "khach",
+      "khan",
+      "kiem",
+      "ngoai",
+      "phia",
+      "station"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page5-bien-bao-cau-vuot-lien-thong-3",
+    "page": 5,
+    "topic": "Biên báo cầu vượt liên thông",
+    "text": "\\ R Chỉ dẫn khoảng cách đến trạm dừng Chỉ dân bắt đầu Chướng ngại vật Kết thúc đường cao toc NI SG tốc ng ước Biển phụ: Có dạng hình vuông hoặc hình chữ nhật, có nên là mâu trăng, hình vẽ và chữ viề hính hoặc có nên là màu xanh lam, chữ viêt màu trăng.",
+    "keywords": [
+      "hinh",
+      "bien",
+      "trang",
+      "chuong",
+      "dung",
+      "khoang",
+      "lien",
+      "ngai"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page5-khoang-cach-den-4",
+    "page": 5,
+    "topic": "Khoảng cách đến",
+    "text": "Phạm vì tác dụng đôi tượng báo hiệu của biên 00-18:20 Biều thị thời gian Vạch phân chìa các làn xe Vạch phân chía các làn xe ngược chiều cầm đè cùng chiều cho đè vạch vạch Vạch phân chia các làn xe ngược f Vạch phân chia các làn chiêu cho đè vạch xe cùng chiêu câm đè vạch i Nơi được cắt qua từ nét.",
+    "keywords": [
+      "vach phan",
+      "phan chia",
+      "chieu vach",
+      "vach",
+      "chia",
+      "chieu",
+      "phan",
+      "cung"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page6-nhan-dang-dap-an-1",
+    "page": 6,
+    "topic": "NHẬN DẠNG ĐÁP ÁN",
+    "text": "„AI chứa các cụm từ; páP tốC, tăng sỐ. | (0). in ¿Vé sô bít kỳ, ở nơi thuận tiện, cần thiết. 1B à đi ở làn đường ít phương tiện. tiên (câu 97 cưa bi ) và GPLX THẾ { thấp SsO: Th Ễ; or nói về Đèn thì chọn: đèn chiều gần, (chuyển từ đèn chiếu xa sang đèn đi a1 đc: ' Quy hồi có 2 hoặc 5 đáp ch Tố tất.",
+    "keywords": [
+      "tien",
+      "chieu",
+      "chon",
+      "chua",
+      "chuyen",
+      "gplx",
+      "nhan",
+      "phuong"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page6-meo-de-nho-2",
+    "page": 6,
+    "topic": "Mẹo dễ nhớ;",
+    "text": "Câu hỏi ghi các hạng A, B, C, D: chọn đáp án cuối. Câu hỏi ghi các hạng BE, CE, DE: chọn đáp án có chữ8, C, D. Câu hỏi ghi các hạng C1, D1: chọn đán án 2.",
+    "keywords": [
+      "hang chon",
+      "chon",
+      "hang",
+      "chu8",
+      "cuoi"
+    ],
+    "sourceType": "ocr"
+  },
+  {
+    "chunkId": "page7-toc-do-xe-toc-do-xe-1",
+    "page": 7,
+    "topic": "Tốc độ xe Tốc độ Xe",
+    "text": "Xe chở người bốn bánh có gắn động cơ Hi Xe máy chuyên dùng, xe gắn máy NHƯ: II Xe chở hàng bốn bánh có gắn động cơ Trong khu dân cư Đường đôi Km/h Ngoài khu dân cư Đường hai chiều Km/h Đường đôi | Đường hai chiều Km/h Km/h Đến 28 chỗ, không lớn hơn 3,5 tấn go 2O HD;",
+    "keywords": [
+      "banh dong",
+      "banh",
+      "chieu",
+      "dong",
+      "chuyen",
+      "dung",
+      "hang",
+      "ngoai"
+    ],
+    "sourceType": "ocr"
+  }
+]
