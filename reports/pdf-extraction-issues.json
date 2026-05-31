@@ -1,0 +1,37 @@
+[
+  {
+    "questionId": 301,
+    "reason": "no-underline-detected",
+    "answerCount": 2,
+    "answerTexts": [
+      "1. Biển 1.                                    3. Biển 1 và biển 3. ",
+      "2. Biển 2.                                    4. Cả ba biển. "
+    ]
+  },
+  {
+    "questionId": 352,
+    "reason": "no-underline-detected",
+    "answerCount": 1,
+    "answerTexts": [
+      "1. Biển 1.                   2. Biển 2.                   3. Cả hai biển. "
+    ]
+  },
+  {
+    "questionId": 474,
+    "reason": "no-underline-detected",
+    "answerCount": 2,
+    "answerTexts": [
+      "1. Biển 1.   ",
+      "2. Biển 2.  "
+    ]
+  },
+  {
+    "questionId": 499,
+    "reason": "no-underline-detected",
+    "answerCount": 2,
+    "answerTexts": [
+      "1. Xe con và xe khách.                                                                                                                                                                                                                                                                                                                                                                                                                              ",
+      "2. Xe mô tô. "
+    ]
+  }
+]

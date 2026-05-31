@@ -61,7 +61,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q004.png",
-    "explanation": ""
+    "explanation": "Dải phân cách phân chia mặt đường thành hai chiều xe chạy riêng biệt.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_15.png"
   },
   {
     "id": 5,
@@ -125,7 +128,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q008.png",
-    "explanation": ""
+    "explanation": "Xe cơ giới không có xe đạp.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_100.png"
   },
   {
     "id": 9,
@@ -236,7 +242,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q015.png",
-    "explanation": ""
+    "explanation": "",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_64.png"
   },
   {
     "id": 16,
@@ -298,7 +307,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q019.png",
-    "explanation": ""
+    "explanation": "Cấm rải vật sắc nhọn",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_88.png"
   },
   {
     "id": 20,
@@ -314,7 +326,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q020.png",
-    "explanation": ""
+    "explanation": "Cả hai ý không có giấy chứng nhận hoặc hết niên hạn.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_137.png"
   },
   {
     "id": 21,
@@ -330,7 +345,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q021.png",
-    "explanation": ""
+    "explanation": "Được cơ quan có thẩm quyền cấp phép.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_50.png"
   },
   {
     "id": 22,
@@ -345,7 +363,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q022.png",
-    "explanation": ""
+    "explanation": "Xử lý hành chính hoặc hình sự.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_98.png"
   },
   {
     "id": 23,
@@ -361,7 +382,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q023.png",
-    "explanation": ""
+    "explanation": "Cơ thể có chất ma túy bị phạt tiền và bị tước giấy phép lái xe.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_133.png"
   },
   {
     "id": 24,
@@ -377,7 +401,9 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q024.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 25,
@@ -393,7 +419,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q025.png",
-    "explanation": ""
+    "explanation": "Có nồng độ cồn thì bị phạt tiền và có thể bị tước giấy phép lái xe.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_127.png"
   },
   {
     "id": 26,
@@ -409,7 +438,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q026.png",
-    "explanation": ""
+    "explanation": "Người điều khiển xe cấm sử dụng rượu, bia.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_80.png"
   },
   {
     "id": 27,
@@ -426,7 +458,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q027.png",
-    "explanation": ""
+    "explanation": "Cấm giao xe cho người không đủ điều kiện về tuổi, giấy phép hoặc bị trừ hết 12 điểm.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_49.png"
   },
   {
     "id": 28,
@@ -442,7 +477,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q028.png",
-    "explanation": ""
+    "explanation": "Cấm lạng lách, đánh võng và xúc phạm t)",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_73.png"
   },
   {
     "id": 29,
@@ -473,7 +511,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q030.png",
-    "explanation": ""
+    "explanation": "Cấm lắp đặt thiết bị gây mất trật tự và cản trở người, phương tiện tham gia giao thông.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_126.png"
   },
   {
     "id": 31,
@@ -489,7 +530,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q031.jpg",
-    "explanation": ""
+    "explanation": "Cấm mua bán trái phép biển số xe.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_15.png",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 32,
@@ -505,7 +551,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q032.png",
-    "explanation": ""
+    "explanation": "Cấm lạng lách đánh võng. s-.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_132.png"
   },
   {
     "id": 33,
@@ -537,7 +586,12 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q034.png",
-    "explanation": ""
+    "explanation": "Quan sát, giảm tốc độ hoặc dừng lại.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_101.png",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 35,
@@ -554,7 +608,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q035.png",
-    "explanation": ""
+    "explanation": "Giảm tốc độ ở đường hẹp, cầu cống hẹp hoặc trời mưa.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_120.png"
   },
   {
     "id": 36,
@@ -588,7 +645,10 @@
     "critical": false,
     "image": "/questions/media/q037.jpg",
     "sourceImage": "/questions/images/q037.png",
-    "explanation": ""
+    "explanation": "Người điều khiển giao thông giơ tay thẳng đứng thì ở các hướng phải dừng lại. t) + Me) Tước.cs-?",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_108.png"
   },
   {
     "id": 38,
@@ -636,7 +696,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q040.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 41,
@@ -683,7 +745,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q043.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 44,
@@ -699,7 +763,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q044.png",
-    "explanation": ""
+    "explanation": "Xe cơ giới, xe máy chuyên dùng đi bên trái.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_16.png",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 45,
@@ -747,7 +816,12 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q047.png",
-    "explanation": ""
+    "explanation": "Không được phép vượt trên cầu hẹp có 1 làn đường.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_139.png",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 48,
@@ -763,7 +837,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q048.png",
-    "explanation": ""
+    "explanation": "",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_95.png"
   },
   {
     "id": 49,
@@ -830,7 +907,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q052.png",
-    "explanation": ""
+    "explanation": "Cấm cầm và sử dụng điện thoại khi đang tham gia giao thông.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_47.png"
   },
   {
     "id": 53,
@@ -846,7 +926,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q053.png",
-    "explanation": ""
+    "explanation": "Cầu hẹp có 1 làn đường không được vượt.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_113.png"
   },
   {
     "id": 54,
@@ -878,7 +961,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q055.png",
-    "explanation": ""
+    "explanation": "Không quay đầu xe trên cầu.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_117.png"
   },
   {
     "id": 56,
@@ -928,7 +1014,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q058.png",
-    "explanation": ""
+    "explanation": "Không lùi xe ở đường một chiều, nơi giao nhau hoặc tầm nhìn bị che khuất.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_59.png"
   },
   {
     "id": 59,
@@ -961,11 +1050,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q060.png",
-    "explanation": "Ghi nhớ: Đỗ xe trong phố phải sát lề đường, vỉa hè bên phải; bánh xe gần nhất cách lề đường, vỉa hè không quá 0,25 m.",
-    "explanationSource": "manual",
-    "explanationReview": "verified",
+    "explanation": "Dừng xe, đỗ xe cách lề đường, hè phố không quá 0,25 mét.",
     "memoryTip": "Ghi nhớ: Đỗ xe trong phố phải sát lề đường, vỉa hè bên phải; bánh xe gần nhất cách lề đường, vỉa hè không quá 0,25 m.",
-    "tipSource": "manual"
+    "tipSource": "manual",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_92.png"
   },
   {
     "id": 61,
@@ -982,11 +1072,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q061.png",
-    "explanation": "Ghi nhớ: Khi dừng, đỗ xe trên đường phố hẹp phải cách xe ô tô đang đỗ ngược chiều tối thiểu 20 m.",
-    "explanationSource": "manual",
-    "explanationReview": "verified",
+    "explanation": "Dừng xe, đỗ xe trên đường hẹp cách xe khác 20 mét.",
     "memoryTip": "Ghi nhớ: Khi dừng, đỗ xe trên đường phố hẹp phải cách xe ô tô đang đỗ ngược chiều tối thiểu 20 m.",
-    "tipSource": "manual"
+    "tipSource": "manual",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_111.png"
   },
   {
     "id": 62,
@@ -1002,7 +1093,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q062.png",
-    "explanation": ""
+    "explanation": "Không được dừng, đỗ xe song song xe khác, nơi đường cong, dốc khuất tầm nhìn, bên trái đường một c",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_17.png"
   },
   {
     "id": 63,
@@ -1019,7 +1113,12 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q063.png",
-    "explanation": ""
+    "explanation": "Xe mô tô, xe gắn máy không được kéo đẩy xe khác.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_107.png",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 64,
@@ -1034,7 +1133,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q064.png",
-    "explanation": ""
+    "explanation": "Xe mô tô, xe gắn máy không được buông cả 2 tay.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_54.png"
   },
   {
     "id": 65,
@@ -1051,7 +1153,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q065.png",
-    "explanation": ""
+    "explanation": "Xe mô tô, xe gắn máy không được buông cả 2 tay.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_110.png"
   },
   {
     "id": 66,
@@ -1068,7 +1173,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q066.png",
-    "explanation": ""
+    "explanation": "Người ĐƯỢC CHỞ trên xe mô tô, xe gắn máy không được mang vác đồ cồng kềnh và bám kéo đẩy xe khác.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_94.png"
   },
   {
     "id": 67,
@@ -1085,7 +1193,12 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q067.png",
-    "explanation": ""
+    "explanation": "Người ĐƯỢC CHỞ trên xe mô tô, xe gắn máy không được mang vác đồ cồng kềnh và bám kéo đẩy xe khác.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_136.png",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 68,
@@ -1101,7 +1214,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q068.png",
-    "explanation": ""
+    "explanation": "Đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_128.png"
   },
   {
     "id": 69,
@@ -1134,7 +1250,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q070.png",
-    "explanation": ""
+    "explanation": "Cấm tất cả hành vi nguy hiểm: dàn hàng, kéo đẩy, buông tay, chở cồng kềnh, thay người lái khi xe chạy.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_106.png"
   },
   {
     "id": 71,
@@ -1150,7 +1269,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q071.png",
-    "explanation": ""
+    "explanation": "Cấm dàn hàng ngang, vào đường người đi bộ, dùng ô; thiết bị âm thanh (trừ trợ thính).",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_116.png"
   },
   {
     "id": 72,
@@ -1166,7 +1288,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q072.png",
-    "explanation": ""
+    "explanation": "Không được: đi dàn hàng ngang, vào đường người đi bộ.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_76.png"
   },
   {
     "id": 73,
@@ -1183,7 +1308,12 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q073.png",
-    "explanation": ""
+    "explanation": "Người được chở trên xe máy không được dùng ô.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_45.png",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 74,
@@ -1199,7 +1329,12 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q074.png",
-    "explanation": ""
+    "explanation": "Người ngồi sau xe máy không được kéo theo xe đạp.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_81.png",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 75,
@@ -1232,7 +1367,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q076.png",
-    "explanation": ""
+    "explanation": "Lái xe mô tô an toàn: Đội mũ đúng chuẩn, cài quai, không dùng ô, điện thoại, thiết bị âm thanh (trừ trợ thính).",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_63.png"
   },
   {
     "id": 77,
@@ -1312,7 +1450,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q081.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 82,
@@ -1328,7 +1468,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q082.jpg",
-    "explanation": ""
+    "explanation": "Xe sau xin vượt (không an toàn): Có tín hiệu rẽ trái báo chưa an toàn không được vượt.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_130.png",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 83,
@@ -1360,7 +1505,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q084.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 85,
@@ -1376,7 +1523,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q085.png",
-    "explanation": ""
+    "explanation": "Lùi xe an toàn: Quan sát kỹ 2 bên và sau, có tín hiệu, chỉ lùi khi an toàn.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_105.png"
   },
   {
     "id": 86,
@@ -1392,7 +1542,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q086.png",
-    "explanation": ""
+    "explanation": "Lùi xe nơi tầm nhìn che khuất: Không được lùi.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_115.png"
   },
   {
     "id": 87,
@@ -1408,7 +1561,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q087.png",
-    "explanation": ""
+    "explanation": "Tránh xe ngược chiều (đường không phân chia): Giảm tốc độ, đi về bên phải.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_99.png"
   },
   {
     "id": 88,
@@ -1425,7 +1581,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q088.png",
-    "explanation": ""
+    "explanation": "Nhường đường khi tránh xe (cả 3 ý): Gần chỗ tránh hơn, xe xuống dốc, xe có chướng ngại vật.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_79.png"
   },
   {
     "id": 89,
@@ -1441,7 +1600,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q089.png",
-    "explanation": ""
+    "explanation": "Xuống dốc gặp xe lên dốc: Nhường đường cho xe lên dốc. s-.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_103.png"
   },
   {
     "id": 90,
@@ -1457,7 +1619,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q090.png",
-    "explanation": ""
+    "explanation": "Đường cong tầm nhìn hạn chế: Quan sát, giảm tốc độ, hoặc dừng lại.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_135.png"
   },
   {
     "id": 91,
@@ -1473,7 +1638,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q091.png",
-    "explanation": ""
+    "explanation": "Đi từ đường không ưu tiên/nhánh: Nhường đường xe trên đường ưu tiên/chính.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_123.png"
   },
   {
     "id": 92,
@@ -1489,7 +1657,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q092.png",
-    "explanation": ""
+    "explanation": "Giao nhau có vòng xuyến: Nhường đường cho xe đến từ bên trái.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_67.png"
   },
   {
     "id": 93,
@@ -1505,7 +1676,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q093.png",
-    "explanation": ""
+    "explanation": "Giao nhau không có vòng xuyến: Nhường đường cho xe đến từ bên phải.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_85.png"
   },
   {
     "id": 94,
@@ -1521,7 +1695,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q094.png",
-    "explanation": ""
+    "explanation": "Nhường đường xe ưu tiên: Chữa cháy, quân sự, công an (khẩn cấp), CSGT dẫn đoàn, cứu thương, hộ đê, cứu nạn, đoàn xe tang. s-.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_87.png"
   },
   {
     "id": 95,
@@ -1554,7 +1731,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q096.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 97,
@@ -1570,7 +1749,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q097.png",
-    "explanation": ""
+    "explanation": "Xe CSGT không phát tín hiệu ưu tiên: Được vượt khi đảm bảo an toàn.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_118.png"
   },
   {
     "id": 98,
@@ -1587,7 +1769,12 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q098.png",
-    "explanation": ""
+    "explanation": "Xe cứu thương đang phát tín hiệu ưu tiên: Không được vượt.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_82.png",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 99,
@@ -1603,7 +1790,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q099.png",
-    "explanation": ""
+    "explanation": "Đường sắt KHÔNG rào chắn/tín hiệu: Dừng phải,",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_122.png"
   },
   {
     "id": 100,
@@ -1619,7 +1809,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q100.png",
-    "explanation": ""
+    "explanation": "Đường sắt có tín hiệu/rào chắn đang hoạt động: Dừng lại bên phải,",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_77.png"
   },
   {
     "id": 101,
@@ -1652,7 +1845,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q102.png",
-    "explanation": ""
+    "explanation": "Dừng xe ở đường sắt khi: Có hiệu lệnh nhân viên, đèn đỏ/chuông, chắn đang đóng/đã đóng.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_72.png"
   },
   {
     "id": 103,
@@ -1716,7 +1912,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q106.png",
-    "explanation": ""
+    "explanation": "Xe được kéo: Người lái, hệ thống lái còn hiệu lực, nối chắc chắn (thanh cứng nếu hỏng phanh), biển báo/đèn vàng.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_46.png"
   },
   {
     "id": 107,
@@ -1749,7 +1948,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q108.png",
-    "explanation": ""
+    "explanation": "Không vượt (1 làn/chiều): Có chướng ngại vật phía",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_51.png"
   },
   {
     "id": 109,
@@ -1765,7 +1967,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q109.png",
-    "explanation": ""
+    "explanation": "Vượt phải khi: Xe",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_104.png"
   },
   {
     "id": 110,
@@ -1781,7 +1986,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q110.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 111,
@@ -1797,7 +2004,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q111.png",
-    "explanation": ""
+    "explanation": "Cấm vào cao tốc: Xe tốc độ thiết kế < tốc độ tối thiểu cao tốc, xe 4 bánh gắn động cơ (chở người/hàng), mô tô, gắn máy, xe thô sơ, người đi bộ.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_83.png"
   },
   {
     "id": 112,
@@ -1845,7 +2055,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q114.png",
-    "explanation": ""
+    "explanation": "Sự cố trên cao tốc: Vào làn dừng khẩn cấp, đèn khẩn cấp, đặt biển/đèn báo sau xe (tối thiểu 150m), báo CSGT/quản lý đường.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_78.png"
   },
   {
     "id": 115,
@@ -1893,7 +2106,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q117.png",
-    "explanation": ""
+    "explanation": "Nhập làn cao tốc: Tín hiệu, nhường đường, (nếu có làn tăng tốc thì chạy trên đó",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_124.png"
   },
   {
     "id": 118,
@@ -1909,7 +2125,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q118.png",
-    "explanation": ""
+    "explanation": "Hạng C1 = 18 tuổi; Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi). Xe dưới 50cm3: 16 tuổi; Hạng A1, A, B1, B, C1: 18 tuổi; Hạng C, BE: 21 tuổi; Hạng D1, D2, C1E, CE: 24 tuổi; Hạng D, D1E, D2E, DE: 27 tuổi.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_89.png",
+    "memoryTip": "tuổi: 16 tuổi xe gắn máy; 18 tuổi hạng A1/A/B1/B/C1; 21 tuổi hạng C; 24 tuổi hạng D1/D2/C1E/CE; 27 tuổi hạng D/DE; hạng D tối đa nam 57, nữ 55.",
+    "tipSource": "paper-note"
   },
   {
     "id": 119,
@@ -1925,7 +2146,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q119.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "tuổi: 16 tuổi xe gắn máy; 18 tuổi hạng A1/A/B1/B/C1; 21 tuổi hạng C; 24 tuổi hạng D1/D2/C1E/CE; 27 tuổi hạng D/DE; hạng D tối đa nam 57, nữ 55.",
+    "tipSource": "paper-note"
   },
   {
     "id": 120,
@@ -1942,7 +2165,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q120.png",
-    "explanation": ""
+    "explanation": "Hạng D là 27 tuổi. Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi). Xe dưới 50cm3: 16 tuổi; Hạng A1, A, B1, B, C1: 18 tuổi; Hạng C, BE: 21 tuổi; Hạng D1, D2, C1E, CE: 24 tuổi; Hạng D, D1E, D2E, DE: 27 tuổi.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_52.png",
+    "memoryTip": "tuổi: 16 tuổi xe gắn máy; 18 tuổi hạng A1/A/B1/B/C1; 21 tuổi hạng C; 24 tuổi hạng D1/D2/C1E/CE; 27 tuổi hạng D/DE; hạng D tối đa nam 57, nữ 55.",
+    "tipSource": "paper-note"
   },
   {
     "id": 121,
@@ -1958,7 +2186,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q121.png",
-    "explanation": ""
+    "explanation": "Độ tuổi tối đa người lái xe ô tô trên 29 chỗ: Nam 57 tuổi và nữ 55 tuổi.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_97.png",
+    "memoryTip": "tuổi: 16 tuổi xe gắn máy; 18 tuổi hạng A1/A/B1/B/C1; 21 tuổi hạng C; 24 tuổi hạng D1/D2/C1E/CE; 27 tuổi hạng D/DE; hạng D tối đa nam 57, nữ 55.",
+    "tipSource": "paper-note"
   },
   {
     "id": 122,
@@ -1974,7 +2207,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q122.png",
-    "explanation": ""
+    "explanation": "Hạng D2 là 24 tuổi. Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi). Xe dưới 50cm3: 16 tuổi; Hạng A1, A, B1, B, C1: 18 tuổi; Hạng C, BE: 21 tuổi; Hạng D1, D2, C1E, CE: 24 tuổi; Hạng D, D1E, D2E, DE: 27 tuổi.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_53.png",
+    "memoryTip": "tuổi: 16 tuổi xe gắn máy; 18 tuổi hạng A1/A/B1/B/C1; 21 tuổi hạng C; 24 tuổi hạng D1/D2/C1E/CE; 27 tuổi hạng D/DE; hạng D tối đa nam 57, nữ 55.",
+    "tipSource": "paper-note"
   },
   {
     "id": 123,
@@ -1991,7 +2229,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q123.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "tuổi: 16 tuổi xe gắn máy; 18 tuổi hạng A1/A/B1/B/C1; 21 tuổi hạng C; 24 tuổi hạng D1/D2/C1E/CE; 27 tuổi hạng D/DE; hạng D tối đa nam 57, nữ 55.",
+    "tipSource": "paper-note"
   },
   {
     "id": 124,
@@ -2007,7 +2247,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q124.png",
-    "explanation": ""
+    "explanation": "Hạng A1 không được chạy mô tô ba bánh.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_55.png",
+    "memoryTip": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "tipSource": "paper-note"
   },
   {
     "id": 125,
@@ -2023,7 +2268,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q125.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "tipSource": "paper-note"
   },
   {
     "id": 126,
@@ -2039,7 +2286,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q126.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "tipSource": "paper-note"
   },
   {
     "id": 127,
@@ -2055,7 +2304,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q127.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "tipSource": "paper-note"
   },
   {
     "id": 128,
@@ -2071,7 +2322,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q128.png",
-    "explanation": ""
+    "explanation": "Hạng C1: ô tô tải và chuyên dùng trên 3.500 kg đến 7.500 kg và lái xe Hạng B.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_109.png",
+    "memoryTip": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "tipSource": "paper-note"
   },
   {
     "id": 129,
@@ -2087,7 +2343,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q129.png",
-    "explanation": ""
+    "explanation": "Hạng C: ô tô tải và chuyên dùng trên 7.500 kg và lái xe Hạng B, C1.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_58.png",
+    "memoryTip": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "tipSource": "paper-note"
   },
   {
     "id": 130,
@@ -2103,7 +2364,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q130.png",
-    "explanation": ""
+    "explanation": "Hạng D1: trên O8 chỗ đến 16 chỗ (không kể lái xe); và lái xe Hạng B, C1, C; t&",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_112.png",
+    "memoryTip": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "tipSource": "paper-note"
   },
   {
     "id": 131,
@@ -2119,7 +2385,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q131.png",
-    "explanation": ""
+    "explanation": "Hạng D2: trên 1ó chỗ đến 29 chỗ (không kể lái xe); và lái xe hạng B, C1, C, D1; t&",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_138.png",
+    "memoryTip": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "tipSource": "paper-note"
   },
   {
     "id": 132,
@@ -2136,7 +2407,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q132.png",
-    "explanation": ""
+    "explanation": "Hạng D: trên 29 chỗ (không kể lái xe); xe giường nằm; và lái xe hạng B, C1, C, D1, D2;",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_66.png",
+    "memoryTip": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "tipSource": "paper-note"
   },
   {
     "id": 133,
@@ -2152,7 +2428,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q133.png",
-    "explanation": ""
+    "explanation": "Hạng BE: lái xe hạng B kéo rơ moóc trên 750kg.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_74.png",
+    "memoryTip": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "tipSource": "paper-note"
   },
   {
     "id": 134,
@@ -2168,7 +2449,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q134.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "tipSource": "paper-note"
   },
   {
     "id": 135,
@@ -2184,7 +2467,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q135.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "hạng GPLX: A1 <=125cm3/11kW; A >125cm3/11kW; B đến 8 chỗ và tải <=3.500kg; C1 tải 3.500-7.500kg; C tải >7.500kg; D1/D2/D lần lượt 8-16, 16-29, >29 chỗ; BE/CE/DE là hạng tương ứng kéo móc.",
+    "tipSource": "paper-note"
   },
   {
     "id": 136,
@@ -2216,7 +2501,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q137.png",
-    "explanation": ""
+    "explanation": "Điều kiện lái xe: Đủ tuổi, sức khỏe, GPLX còn điểm/hiệu lực, phù hợp loại xe (trừ xe gắn máy).",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_68.png"
   },
   {
     "id": 138,
@@ -2233,7 +2521,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q138.png",
-    "explanation": ""
+    "explanation": "Mang theo khi lái xe: Đăng ký xe (hoặc bản sao), GPLX, Kiểm định, Bảo hiểm TNDS; hoặc xuất trình qua VNelD.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_57.png"
   },
   {
     "id": 139,
@@ -2265,11 +2556,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q140.png",
-    "explanation": "Ghi nhớ: Giấy phép lái xe chưa bị trừ hết 12 điểm sẽ được phục hồi đủ 12 điểm nếu không bị trừ điểm trong 12 tháng từ ngày bị trừ điểm gần nhất.",
-    "explanationSource": "manual",
-    "explanationReview": "verified",
+    "explanation": "Phục hồi điểm GPLX (chưa hết điểm): Không bị trừ điểm trong 12 tháng (từ lần trừ gần nhất) -> phục hồi đủ 12 điểm.",
     "memoryTip": "Ghi nhớ: Giấy phép lái xe chưa bị trừ hết 12 điểm sẽ được phục hồi đủ 12 điểm nếu không bị trừ điểm trong 12 tháng từ ngày bị trừ điểm gần nhất.",
-    "tipSource": "manual"
+    "tipSource": "manual",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_18.png"
   },
   {
     "id": 141,
@@ -2285,11 +2577,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q141.png",
-    "explanation": "Ghi nhớ: Bị trừ hết 12 điểm thì sau ít nhất 06 tháng được kiểm tra lại kiến thức pháp luật giao thông; đạt yêu cầu thì được phục hồi đủ 12 điểm.",
-    "explanationSource": "manual",
-    "explanationReview": "verified",
+    "explanation": "Phục hồi điểm GPLX (đã hết điểm): Sau ít nhất ó tháng,",
     "memoryTip": "Ghi nhớ: Bị trừ hết 12 điểm thì sau ít nhất 06 tháng được kiểm tra lại kiến thức pháp luật giao thông; đạt yêu cầu thì được phục hồi đủ 12 điểm.",
-    "tipSource": "manual"
+    "tipSource": "manual",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_61.png"
   },
   {
     "id": 142,
@@ -2320,7 +2613,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q143.png",
-    "explanation": ""
+    "explanation": "Lắp giám sát hành trình: Xe ô tô kinh doanh vận tải và xe chở người >=8 chỗ, xe đầu kéo, xe cứu thương.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_121.png"
   },
   {
     "id": 144,
@@ -2336,7 +2632,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q144.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "tốc độ xe đặc thù: xe chở người 4 bánh có gắn động cơ 30km/h; xe máy chuyên dùng, xe gắn máy 40km/h; xe chở hàng 4 bánh có gắn động cơ 50km/h.",
+    "tipSource": "paper-note"
   },
   {
     "id": 145,
@@ -2352,7 +2650,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q145.png",
-    "explanation": ""
+    "explanation": "Xe cơ giới không bao gồm xe gắn máy: Trong khu vực đông dân cư, đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên: 60km/h.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_114.png",
+    "memoryTip": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "tipSource": "paper-note"
   },
   {
     "id": 146,
@@ -2368,7 +2671,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q146.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "tipSource": "paper-note"
   },
   {
     "id": 147,
@@ -2384,7 +2689,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q147.png",
-    "explanation": ""
+    "explanation": "Xe cơ giới không bao gồm xe gắn máy: Trong khu vực đông dân cư, đường hai chiều; đường một chiều có một làn xe cơ giới: 50km/h.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_96.png",
+    "memoryTip": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "tipSource": "paper-note"
   },
   {
     "id": 148,
@@ -2400,7 +2710,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q148.png",
-    "explanation": ""
+    "explanation": "Xe cơ giới không bao gồm xe gắn máy: Trong khu vực đông dân cư, đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên: 60km/h.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_86.png",
+    "memoryTip": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "tipSource": "paper-note"
   },
   {
     "id": 149,
@@ -2416,7 +2731,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q149.png",
-    "explanation": ""
+    "explanation": "Đường có giải phân cách được xem là đường đôi. Ngoài khu vực dân cư; đường đôi; đường một chiều có hai làn xe cơ giới trở lên: ô tô kéo rơ moóc 60km/h; mô tô, xe buýt, ôtô đầu kéo: 70km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 80km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 90km/h.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_134.png",
+    "memoryTip": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "tipSource": "paper-note"
   },
   {
     "id": 150,
@@ -2433,7 +2753,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q150.png",
-    "explanation": ""
+    "explanation": "Đường có giải phân cách được xem là đường đôi. Ngoài khu vực dân cư; đường đôi; đường một chiều có hai làn xe cơ giới trở lên: ô tô kéo rơ moóc 60km/h; mô tô, xe buýt, ôtô đầu kéo: 70km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 80km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 90km/h.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_19.png",
+    "memoryTip": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "tipSource": "paper-note"
   },
   {
     "id": 151,
@@ -2450,7 +2775,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q151.png",
-    "explanation": ""
+    "explanation": "Đường có giải phân cách được xem là đường đôi. Ngoài khu vực dân cư; đường đôi; đường một chiều có hai làn xe cơ giới trở lên: ô tô kéo rơ moóc 60km/h; mô tô, xe buýt, ôtô đầu kéo: 70km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 80km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 90km/h.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_69.png",
+    "memoryTip": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "tipSource": "paper-note"
   },
   {
     "id": 152,
@@ -2467,7 +2797,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q152.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "tipSource": "paper-note"
   },
   {
     "id": 153,
@@ -2483,7 +2815,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q153.png",
-    "explanation": ""
+    "explanation": "Ngoài khu vực dân cư; đường hai chiều; đường một chiều có một làn xe: ô tô kéo rơ moóc 50km/h; mô tô, xe buýt, ôtô đầu kéo: 60km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 70km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 80km/h.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_62.png",
+    "memoryTip": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "tipSource": "paper-note"
   },
   {
     "id": 154,
@@ -2500,7 +2837,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q154.png",
-    "explanation": ""
+    "explanation": "Ngoài khu vực dân cư; đường hai chiều; đường một chiều có một làn xe: ô tô kéo rơ moóc 50km/h; mô tô, xe buýt, ôtô đầu kéo: 60km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 70km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 80km/h.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_43.png",
+    "memoryTip": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "tipSource": "paper-note"
   },
   {
     "id": 155,
@@ -2517,7 +2859,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q155.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "tipSource": "paper-note"
   },
   {
     "id": 156,
@@ -2534,7 +2878,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q156.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "tốc độ: trong khu dân cư đường đôi/1 chiều từ 2 làn là 60km/h, đường hai chiều/1 làn là 50km/h. Ngoài khu dân cư theo 4 nhóm: 90/80, 80/70, 70/60, 60/50.",
+    "tipSource": "paper-note"
   },
   {
     "id": 157,
@@ -2550,7 +2896,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q157.png",
-    "explanation": ""
+    "explanation": "Xe chở hàng bốn bánh có gắn động cơ: 50km/h.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_119.png",
+    "memoryTip": "tốc độ xe đặc thù: xe chở người 4 bánh có gắn động cơ 30km/h; xe máy chuyên dùng, xe gắn máy 40km/h; xe chở hàng 4 bánh có gắn động cơ 50km/h.",
+    "tipSource": "paper-note"
   },
   {
     "id": 158,
@@ -2566,7 +2917,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q158.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "khoảng cách an toàn lấy tốc độ lớn trừ 30 rồi chọn số mét gần nhất. 60km/h = 35m; 60-80 = 55m; 80-100 = 70m; 100-120 = 100m.",
+    "tipSource": "paper-note"
   },
   {
     "id": 159,
@@ -2582,7 +2935,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q159.png",
-    "explanation": ""
+    "explanation": "Khoảng cách an toàn tối thiểu: 60km/h = 35m; 60 - 80km/h = 55m; 80 - 100km/h = 70m; 100 - 120km/h = 100m.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_44.png",
+    "memoryTip": "khoảng cách an toàn lấy tốc độ lớn trừ 30 rồi chọn số mét gần nhất. 60km/h = 35m; 60-80 = 55m; 80-100 = 70m; 100-120 = 100m.",
+    "tipSource": "paper-note"
   },
   {
     "id": 160,
@@ -2598,7 +2956,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q160.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "khoảng cách an toàn lấy tốc độ lớn trừ 30 rồi chọn số mét gần nhất. 60km/h = 35m; 60-80 = 55m; 80-100 = 70m; 100-120 = 100m.",
+    "tipSource": "paper-note"
   },
   {
     "id": 161,
@@ -2614,7 +2974,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q161.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "khoảng cách an toàn lấy tốc độ lớn trừ 30 rồi chọn số mét gần nhất. 60km/h = 35m; 60-80 = 55m; 80-100 = 70m; 100-120 = 100m.",
+    "tipSource": "paper-note"
   },
   {
     "id": 162,
@@ -2630,7 +2992,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q162.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "khoảng cách an toàn lấy tốc độ lớn trừ 30 rồi chọn số mét gần nhất. 60km/h = 35m; 60-80 = 55m; 80-100 = 70m; 100-120 = 100m.",
+    "tipSource": "paper-note"
   },
   {
     "id": 163,
@@ -2647,7 +3011,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q163.png",
-    "explanation": ""
+    "explanation": "Quan sát biển báo nguy hiểm và cảnh báo trên đường.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_75.png"
   },
   {
     "id": 164,
@@ -2680,7 +3047,10 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q165.png",
-    "explanation": ""
+    "explanation": "Quan sát, giảm tốc độ/dừng khi: Vạch/nơi người đi bộ qua đường, giao nhau, đường hẹp/vòng/dốc, khu vực trường học/bệnh viện/chợ/công trình.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_91.png"
   },
   {
     "id": 166,
@@ -2711,7 +3081,12 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q167.png",
-    "explanation": ""
+    "explanation": "Gặp xe buýt dừng đón/trả khách: Quan sát, giảm tốc độ hoặc dừng lại an toàn.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_71.png",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 168,
@@ -2726,7 +3101,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q168.png",
-    "explanation": ""
+    "explanation": "Vận chuyển ô tô khách: Đón/trả đúng nơi, hướng dẫn an toàn, vệ sinh, đúng lịch trình, không chở nóc/khoang hành lý/đu bám.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_20.png"
   },
   {
     "id": 169,
@@ -2798,11 +3176,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q172.png",
-    "explanation": "Ghi nhớ: Thời gian làm việc của lái xe ô tô kinh doanh vận tải trong một ngày không quá 10 giờ.",
-    "explanationSource": "manual",
-    "explanationReview": "verified",
+    "explanation": "Lái xe làm việc: Không quá 10 giờ 1 ngày.",
     "memoryTip": "Ghi nhớ: Thời gian làm việc của lái xe ô tô kinh doanh vận tải trong một ngày không quá 10 giờ.",
-    "tipSource": "manual"
+    "tipSource": "manual",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_56.png"
   },
   {
     "id": 173,
@@ -2868,7 +3247,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q176.png",
-    "explanation": ""
+    "explanation": "Chở hàng nguy hiểm: Phải có giấy phép, (nếu cần) có người áp tải.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_21.png"
   },
   {
     "id": 177,
@@ -2885,7 +3267,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q177.png",
-    "explanation": ""
+    "explanation": "Xe nước ngoài (tay lái phải/du lịch): Tuân thủ luật VN (hoặc điều ước quốc tế), đúng phạm vi/tuyến/thời gian cấp phép, (tay lái phải) phải đi đoàn có hỗ trợ.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_42.png"
   },
   {
     "id": 178,
@@ -2916,7 +3301,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q179.png",
-    "explanation": ""
+    "explanation": "Chở hàng siêu trường/trọng: Chạy tốc độ trong giấy phép, báo hiệu kích thước, (nếu cần) có người/phương tiện hỗ trợ, cảnh báo.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_65.png"
   },
   {
     "id": 180,
@@ -2932,7 +3320,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q180.png",
-    "explanation": ""
+    "explanation": "Xe cứu hộ: Dấu hiệu nhận diện, thông tin, GSHT, ghi hình lái; Tuân thủ khối lượng quy định.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_48.png"
   },
   {
     "id": 181,
@@ -2981,7 +3372,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q183.png",
-    "explanation": ""
+    "explanation": "",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_22.png"
   },
   {
     "id": 184,
@@ -2997,7 +3391,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q184.png",
-    "explanation": ""
+    "explanation": "Lái xe khách về đạo đức: Lịch sự, giúp đỡ khách; Tu dưỡng bản thân, tôn trọng người khác, bảo vệ môi trường. 4 3. Câu hải chan mắt đán án Jục",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_22.png"
   },
   {
     "id": 185,
@@ -3059,7 +3456,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q188.png",
-    "explanation": ""
+    "explanation": "Máu phun thành tia (tai nạn GT): Cầm máu không trực",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_23.png"
   },
   {
     "id": 189,
@@ -3074,7 +3474,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q189.jpg",
-    "explanation": ""
+    "explanation": "Lái xe văn hóa: Hiểu và chấp hành luật, ý thức trách nhiệm, tôn trọng, nhường nhịn, giúp đỡ, ứng xử văn hóa.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_23.png"
   },
   {
     "id": 190,
@@ -3105,7 +3508,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q191.jpg",
-    "explanation": ""
+    "explanation": "Lái xe mô tô văn hóa: Đi đúng bên phải, đúng",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_24.png"
   },
   {
     "id": 192,
@@ -3201,7 +3607,9 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q197.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 198,
@@ -3251,7 +3659,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q200.png",
-    "explanation": ""
+    "explanation": "Ùn tắc (đường 2 chiều, khu dân cư): Kiên nhẫn, tuân thủ hướng dẫn/đèn, đi đúng",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_25.png"
   },
   {
     "id": 201,
@@ -3283,7 +3694,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q202.png",
-    "explanation": ""
+    "explanation": "Phòng cháy xe: Không lắp thêm thiết bị điện sai thiết kế + Phải tắt khóa điện + Không để chất dễ cháy trong xe.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_25.png"
   },
   {
     "id": 203,
@@ -3299,7 +3713,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q203.png",
-    "explanation": ""
+    "explanation": "Chữa cháy xe (nếu có khả năng dập): Tắt khóa điện + Sử dụng nước.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_26.png"
   },
   {
     "id": 204,
@@ -3333,7 +3750,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q205.png",
-    "explanation": ""
+    "explanation": "Sơ cứu người bị bỏng (TNGT): Gọi 115 + Loại bỏ nguyên nhân gây bỏng + Cho uống nước (nếu tỉnh), giữ ấm (nếu lạnh), đưa đến y tế.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_26.png"
   },
   {
     "id": 206,
@@ -3364,7 +3784,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q207.png",
-    "explanation": ""
+    "explanation": "Khởi hành xe số tự động: Đạp phanh chân hết cỡ, vào số, nhả phanh đỗ,",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_27.png"
   },
   {
     "id": 208,
@@ -3426,7 +3849,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q211.png",
-    "explanation": ""
+    "explanation": "Tư thế lái đúng: Chân đạp phanh/ga dễ, lưng thẳng, tay nắm vô lăng (trái 9-10h, phải 2-4h).",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_28.png"
   },
   {
     "id": 212,
@@ -3441,7 +3867,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q212.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 213,
@@ -3457,7 +3885,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q213.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 214,
@@ -3488,7 +3918,9 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q215.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 216,
@@ -3504,7 +3936,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q216.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 217,
@@ -3519,7 +3953,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q217.png",
-    "explanation": ""
+    "explanation": "Rẽ trái ô tô: Tín hiệu rẽ trái sớm, giảm tốc độ.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_29.png",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 218,
@@ -3614,7 +4053,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q223.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 224,
@@ -3761,7 +4202,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q232.png",
-    "explanation": ""
+    "explanation": "Nhiên liệu giảm ô nhiễm: Xăng sinh học, khí sinh học.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_30.png"
   },
   {
     "id": 233,
@@ -3825,7 +4269,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q236.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 237,
@@ -3857,7 +4303,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q238.jpg",
-    "explanation": ""
+    "explanation": "Điều chỉnh ghế (động cơ đã nổ): Cần số ở N, P, hoặc số O.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_31.png"
   },
   {
     "id": 239,
@@ -3889,7 +4338,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q240.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 241,
@@ -3905,7 +4356,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q241.png",
-    "explanation": ""
+    "explanation": "Đèn pha xe ngược chiều chói mắt: Giảm tốc độ, vững tay lái, nhìn chếch lề phải.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_32.png",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 242,
@@ -3937,7 +4393,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q243.png",
-    "explanation": ""
+    "explanation": "Đường nhiều ổ gà: Giảm tốc độ, về số thấp, giữ đều ga.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_33.png",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 244,
@@ -3953,7 +4414,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q244.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 245,
@@ -3969,7 +4432,9 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q245.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 246,
@@ -4017,7 +4482,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q248.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 249,
@@ -4096,7 +4563,9 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q253.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 254,
@@ -4112,7 +4581,9 @@
     "critical": true,
     "image": null,
     "sourceImage": "/questions/images/q254.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 255,
@@ -4143,7 +4614,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q256.png",
-    "explanation": ""
+    "explanation": "Mở cửa ô tô xuống xe: Quan sát, an toàn thì mở hé, rồi mở đủ.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_34.png"
   },
   {
     "id": 257,
@@ -4177,7 +4651,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q258.png",
-    "explanation": ""
+    "explanation": "Tay ga xe mô tô: Điều khiển xe chạy về",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_35.png"
   },
   {
     "id": 259,
@@ -4262,7 +4739,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q263.png",
-    "explanation": ""
+    "explanation": "Ô tô điện qua ngập nước: Biết khả năng chìm của xe + Vững lái, đều ga + Chạy chậm.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_36.png"
   },
   {
     "id": 264,
@@ -4278,7 +4758,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q264.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 265,
@@ -4294,7 +4776,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q265.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 266,
@@ -4374,7 +4858,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q270.png",
-    "explanation": ""
+    "explanation": "p Hệ thống lái ô tô: Chuyển hướng chính xác + Cơ cấu không va chạm, quay vô lăng 2 bên lực không khác biệt nhiều.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_37.png",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 271,
@@ -4406,7 +4895,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q272.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 273,
@@ -4422,7 +4913,10 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q273.png",
-    "explanation": ""
+    "explanation": "Ống xả ô tô: Không gây cháy + Miệng thoát không hướng",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_37.png"
   },
   {
     "id": 274,
@@ -4438,7 +4932,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q274.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 275,
@@ -4453,7 +4949,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q275.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 276,
@@ -4469,7 +4967,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q276.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 277,
@@ -4485,11 +4985,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q277.png",
-    "explanation": "Ghi nhớ: Niên hạn sử dụng của xe ô tô tải tính từ năm sản xuất không quá 25 năm.",
-    "explanationSource": "manual",
-    "explanationReview": "verified",
+    "explanation": "Niên hạn xe tải: Không quá 25 năm.",
     "memoryTip": "Ghi nhớ: Niên hạn sử dụng của xe ô tô tải tính từ năm sản xuất không quá 25 năm.",
-    "tipSource": "manual"
+    "tipSource": "manual",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_38.png"
   },
   {
     "id": 278,
@@ -4525,7 +5026,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q279.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 280,
@@ -4541,7 +5044,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q280.png",
-    "explanation": ""
+    "explanation": "Hệ thống truyền lực: Truyền mô men quay từ động cơ đến bánh xe chủ động.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_38.png",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 281,
@@ -4557,7 +5065,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q281.png",
-    "explanation": ""
+    "explanation": "Ly hợp (côn): Truyền hoặc ngắt truyền động từ động cơ đến hộ",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_39.png",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 282,
@@ -4573,7 +5086,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q282.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 283,
@@ -4589,7 +5104,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q283.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 284,
@@ -4605,7 +5122,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q284.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 285,
@@ -4638,7 +5157,9 @@
     "critical": false,
     "image": "/questions/media/q286.jpg",
     "sourceImage": "/questions/images/q286.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 287,
@@ -4655,7 +5176,9 @@
     "critical": false,
     "image": "/questions/media/q287.jpg",
     "sourceImage": "/questions/images/q287.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 288,
@@ -4672,7 +5195,9 @@
     "critical": false,
     "image": "/questions/media/q288.jpg",
     "sourceImage": "/questions/images/q288.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 289,
@@ -4689,7 +5214,9 @@
     "critical": false,
     "image": "/questions/media/q289.jpg",
     "sourceImage": "/questions/images/q289.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 290,
@@ -4705,7 +5232,12 @@
     "critical": false,
     "image": "/questions/media/q290.jpg",
     "sourceImage": "/questions/images/q290.png",
-    "explanation": ""
+    "explanation": "Để khởi động xe, bạn phải đạp hết hành trình bàn đạp chân phanh.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_40.png",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 291,
@@ -4722,7 +5254,12 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q291.png",
-    "explanation": ""
+    "explanation": "Để tích trữ điện năng cung cấp cho các phụ tải khi máy phát chưa làm việc.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_41.png",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 292,
@@ -4739,7 +5276,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q292.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 293,
@@ -4754,7 +5293,9 @@
     "critical": false,
     "image": null,
     "sourceImage": "/questions/images/q293.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 294,
@@ -4788,7 +5329,9 @@
     "critical": false,
     "image": "/questions/media/q295.jpg",
     "sourceImage": "/questions/images/q295.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 296,
@@ -4855,7 +5398,9 @@
     "critical": false,
     "image": "/questions/media/q299.jpg",
     "sourceImage": "/questions/images/q299.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 300,
@@ -4872,7 +5417,12 @@
     "critical": false,
     "image": "/questions/media/q300.jpg",
     "sourceImage": "/questions/images/q300.png",
-    "explanation": ""
+    "explanation": "Biểu tượng ECO: Chế độ lái tiết kiệm.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_41.png",
+    "memoryTip": "cấu tạo: bôi trơn cấp dầu; động cơ biến nhiệt năng thành cơ năng; truyền lực truyền mô men; ly hợp truyền/ngắt truyền động; hộp số giúp xe lùi; lái đổi hướng; phanh giảm tốc/dừng; ắc quy tích điện; máy phát phát điện; dây an toàn giữ chặt người.",
+    "tipSource": "paper-note"
   },
   {
     "id": 301,
@@ -4889,7 +5439,9 @@
     "critical": false,
     "image": "/questions/media/q301.jpg",
     "sourceImage": "/questions/images/q301.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 302,
@@ -4906,7 +5458,9 @@
     "critical": false,
     "image": "/questions/media/q302.jpg",
     "sourceImage": "/questions/images/q302.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 303,
@@ -4923,7 +5477,9 @@
     "critical": false,
     "image": "/questions/media/q303.jpg",
     "sourceImage": "/questions/images/q303.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 304,
@@ -4939,7 +5495,9 @@
     "critical": false,
     "image": "/questions/media/q304.jpg",
     "sourceImage": "/questions/images/q304.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 305,
@@ -4971,7 +5529,9 @@
     "critical": false,
     "image": "/questions/media/q306.jpg",
     "sourceImage": "/questions/images/q306.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 307,
@@ -5038,7 +5598,9 @@
     "critical": false,
     "image": "/questions/media/q310.jpg",
     "sourceImage": "/questions/images/q310.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 311,
@@ -5054,7 +5616,9 @@
     "critical": false,
     "image": "/questions/media/q311.jpg",
     "sourceImage": "/questions/images/q311.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 312,
@@ -5086,7 +5650,9 @@
     "critical": false,
     "image": "/questions/media/q313.jpg",
     "sourceImage": "/questions/images/q313.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 314,
@@ -5102,7 +5668,9 @@
     "critical": false,
     "image": "/questions/media/q314.jpg",
     "sourceImage": "/questions/images/q314.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 315,
@@ -5134,7 +5702,9 @@
     "critical": false,
     "image": "/questions/media/q316.jpg",
     "sourceImage": "/questions/images/q316.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 317,
@@ -5151,7 +5721,9 @@
     "critical": false,
     "image": "/questions/media/q317.jpg",
     "sourceImage": "/questions/images/q317.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 318,
@@ -5168,7 +5740,9 @@
     "critical": false,
     "image": "/questions/media/q318.jpg",
     "sourceImage": "/questions/images/q318.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 319,
@@ -5185,7 +5759,9 @@
     "critical": false,
     "image": "/questions/media/q319.jpg",
     "sourceImage": "/questions/images/q319.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 320,
@@ -5202,7 +5778,9 @@
     "critical": false,
     "image": "/questions/media/q320.jpg",
     "sourceImage": "/questions/images/q320.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 321,
@@ -5218,7 +5796,9 @@
     "critical": false,
     "image": "/questions/media/q321.jpg",
     "sourceImage": "/questions/images/q321.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 322,
@@ -5250,7 +5830,9 @@
     "critical": false,
     "image": "/questions/media/q323.jpg",
     "sourceImage": "/questions/images/q323.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 324,
@@ -5282,7 +5864,9 @@
     "critical": false,
     "image": "/questions/media/q325.jpg",
     "sourceImage": "/questions/images/q325.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 326,
@@ -5364,7 +5948,9 @@
     "critical": false,
     "image": "/questions/media/q330.jpg",
     "sourceImage": "/questions/images/q330.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 331,
@@ -5380,7 +5966,9 @@
     "critical": false,
     "image": "/questions/media/q331.jpg",
     "sourceImage": "/questions/images/q331.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 332,
@@ -5429,7 +6017,9 @@
     "critical": false,
     "image": "/questions/media/q334.jpg",
     "sourceImage": "/questions/images/q334.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 335,
@@ -5444,7 +6034,9 @@
     "critical": false,
     "image": "/questions/media/q335.jpg",
     "sourceImage": "/questions/images/q335.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển hiệu lệnh thường hình tròn hoặc chữ nhật màu xanh, hình vẽ màu trắng; báo các điều bắt buộc người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 336,
@@ -5459,7 +6051,9 @@
     "critical": false,
     "image": "/questions/media/q336.jpg",
     "sourceImage": "/questions/images/q336.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 337,
@@ -5506,7 +6100,9 @@
     "critical": false,
     "image": "/questions/media/q339.jpg",
     "sourceImage": "/questions/images/q339.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 340,
@@ -5522,7 +6118,9 @@
     "critical": false,
     "image": "/questions/media/q340.jpg",
     "sourceImage": "/questions/images/q340.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 341,
@@ -5571,7 +6169,9 @@
     "critical": false,
     "image": "/questions/media/q343.jpg",
     "sourceImage": "/questions/images/q343.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 344,
@@ -5617,7 +6217,9 @@
     "critical": false,
     "image": "/questions/media/q346.jpg",
     "sourceImage": "/questions/images/q346.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 347,
@@ -5633,7 +6235,9 @@
     "critical": false,
     "image": "/questions/media/q347.jpg",
     "sourceImage": "/questions/images/q347.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 348,
@@ -5648,7 +6252,9 @@
     "critical": false,
     "image": "/questions/media/q348.jpg",
     "sourceImage": "/questions/images/q348.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "tipSource": "paper-note"
   },
   {
     "id": 349,
@@ -5695,7 +6301,9 @@
     "critical": false,
     "image": "/questions/media/q351.jpg",
     "sourceImage": "/questions/images/q351.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 352,
@@ -5743,7 +6351,9 @@
     "critical": false,
     "image": "/questions/media/q354.jpg",
     "sourceImage": "/questions/images/q354.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 355,
@@ -5804,7 +6414,9 @@
     "critical": false,
     "image": "/questions/media/q358.jpg",
     "sourceImage": "/questions/images/q358.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 359,
@@ -5882,7 +6494,9 @@
     "critical": false,
     "image": "/questions/media/q363.jpg",
     "sourceImage": "/questions/images/q363.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 364,
@@ -5897,7 +6511,9 @@
     "critical": false,
     "image": "/questions/media/q364.jpg",
     "sourceImage": "/questions/images/q364.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển hiệu lệnh thường hình tròn hoặc chữ nhật màu xanh, hình vẽ màu trắng; báo các điều bắt buộc người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 365,
@@ -5913,7 +6529,9 @@
     "critical": false,
     "image": "/questions/media/q365.jpg",
     "sourceImage": "/questions/images/q365.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 366,
@@ -5928,7 +6546,9 @@
     "critical": false,
     "image": "/questions/media/q366.jpg",
     "sourceImage": "/questions/images/q366.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển hiệu lệnh thường hình tròn hoặc chữ nhật màu xanh, hình vẽ màu trắng; báo các điều bắt buộc người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 367,
@@ -5994,7 +6614,9 @@
     "critical": false,
     "image": "/questions/media/q370.jpg",
     "sourceImage": "/questions/images/q370.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 371,
@@ -6044,7 +6666,9 @@
     "critical": false,
     "image": "/questions/media/q373.jpg",
     "sourceImage": "/questions/images/q373.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 374,
@@ -6176,7 +6800,9 @@
     "critical": false,
     "image": "/questions/media/q381.jpg",
     "sourceImage": "/questions/images/q381.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 382,
@@ -6341,7 +6967,9 @@
     "critical": false,
     "image": "/questions/media/q391.jpg",
     "sourceImage": "/questions/images/q391.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 392,
@@ -6469,7 +7097,9 @@
     "critical": false,
     "image": "/questions/media/q399.jpg",
     "sourceImage": "/questions/images/q399.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 400,
@@ -6598,7 +7228,9 @@
     "critical": false,
     "image": "/questions/media/q407.jpg",
     "sourceImage": "/questions/images/q407.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 408,
@@ -6631,7 +7263,9 @@
     "critical": false,
     "image": "/questions/media/q409.jpg",
     "sourceImage": "/questions/images/q409.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 410,
@@ -6663,7 +7297,9 @@
     "critical": false,
     "image": "/questions/media/q411.jpg",
     "sourceImage": "/questions/images/q411.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "tipSource": "paper-note"
   },
   {
     "id": 412,
@@ -6679,7 +7315,9 @@
     "critical": false,
     "image": "/questions/media/q412.jpg",
     "sourceImage": "/questions/images/q412.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 413,
@@ -6727,7 +7365,9 @@
     "critical": false,
     "image": "/questions/media/q415.jpg",
     "sourceImage": "/questions/images/q415.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 416,
@@ -6742,7 +7382,9 @@
     "critical": false,
     "image": "/questions/media/q416.jpg",
     "sourceImage": "/questions/images/q416.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 417,
@@ -6757,7 +7399,9 @@
     "critical": false,
     "image": "/questions/media/q417.jpg",
     "sourceImage": "/questions/images/q417.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 418,
@@ -6819,7 +7463,9 @@
     "critical": false,
     "image": "/questions/media/q421.jpg",
     "sourceImage": "/questions/images/q421.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 422,
@@ -6835,7 +7481,9 @@
     "critical": false,
     "image": "/questions/media/q422.jpg",
     "sourceImage": "/questions/images/q422.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 423,
@@ -6851,7 +7499,9 @@
     "critical": false,
     "image": "/questions/media/q423.jpg",
     "sourceImage": "/questions/images/q423.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 424,
@@ -6881,7 +7531,9 @@
     "critical": false,
     "image": "/questions/media/q425.jpg",
     "sourceImage": "/questions/images/q425.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 426,
@@ -6974,7 +7626,9 @@
     "critical": false,
     "image": "/questions/media/q431.jpg",
     "sourceImage": "/questions/images/q431.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "tipSource": "paper-note"
   },
   {
     "id": 432,
@@ -7072,7 +7726,9 @@
     "critical": false,
     "image": "/questions/media/q437.jpg",
     "sourceImage": "/questions/images/q437.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển hiệu lệnh thường hình tròn hoặc chữ nhật màu xanh, hình vẽ màu trắng; báo các điều bắt buộc người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 438,
@@ -7089,7 +7745,9 @@
     "critical": false,
     "image": "/questions/media/q438.jpg",
     "sourceImage": "/questions/images/q438.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 439,
@@ -7106,7 +7764,9 @@
     "critical": false,
     "image": "/questions/media/q439.jpg",
     "sourceImage": "/questions/images/q439.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 440,
@@ -7190,7 +7850,9 @@
     "critical": false,
     "image": "/questions/media/q444.jpg",
     "sourceImage": "/questions/images/q444.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 445,
@@ -7206,7 +7868,9 @@
     "critical": false,
     "image": "/questions/media/q445.jpg",
     "sourceImage": "/questions/images/q445.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 446,
@@ -7223,7 +7887,9 @@
     "critical": false,
     "image": "/questions/media/q446.jpg",
     "sourceImage": "/questions/images/q446.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 447,
@@ -7288,7 +7954,9 @@
     "critical": false,
     "image": "/questions/media/q450.jpg",
     "sourceImage": "/questions/images/q450.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 451,
@@ -7305,7 +7973,9 @@
     "critical": false,
     "image": "/questions/media/q451.jpg",
     "sourceImage": "/questions/images/q451.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 452,
@@ -7353,7 +8023,9 @@
     "critical": false,
     "image": "/questions/media/q454.jpg",
     "sourceImage": "/questions/images/q454.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 455,
@@ -7368,7 +8040,9 @@
     "critical": false,
     "image": "/questions/media/q455.jpg",
     "sourceImage": "/questions/images/q455.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển hiệu lệnh thường hình tròn hoặc chữ nhật màu xanh, hình vẽ màu trắng; báo các điều bắt buộc người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 456,
@@ -7384,7 +8058,9 @@
     "critical": false,
     "image": "/questions/media/q456.jpg",
     "sourceImage": "/questions/images/q456.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 457,
@@ -7450,7 +8126,9 @@
     "critical": false,
     "image": "/questions/media/q460.jpg",
     "sourceImage": "/questions/images/q460.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 461,
@@ -7480,7 +8158,9 @@
     "critical": false,
     "image": "/questions/media/q462.jpg",
     "sourceImage": "/questions/images/q462.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 463,
@@ -7495,7 +8175,9 @@
     "critical": false,
     "image": "/questions/media/q463.jpg",
     "sourceImage": "/questions/images/q463.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo cấm thường hình tròn, viền đỏ, nền trắng, hình vẽ màu đen; dùng để biểu thị điều cấm, người tham gia giao thông phải chấp hành.",
+    "tipSource": "paper-note"
   },
   {
     "id": 464,
@@ -7511,7 +8193,9 @@
     "critical": false,
     "image": "/questions/media/q464.jpg",
     "sourceImage": "/questions/images/q464.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 465,
@@ -7527,7 +8211,9 @@
     "critical": false,
     "image": "/questions/media/q465.jpg",
     "sourceImage": "/questions/images/q465.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 466,
@@ -7543,7 +8229,9 @@
     "critical": false,
     "image": "/questions/media/q466.jpg",
     "sourceImage": "/questions/images/q466.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 467,
@@ -7560,7 +8248,9 @@
     "critical": false,
     "image": "/questions/media/q467.jpg",
     "sourceImage": "/questions/images/q467.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 468,
@@ -7576,7 +8266,9 @@
     "critical": false,
     "image": "/questions/media/q468.jpg",
     "sourceImage": "/questions/images/q468.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 469,
@@ -7592,7 +8284,9 @@
     "critical": false,
     "image": "/questions/media/q469.jpg",
     "sourceImage": "/questions/images/q469.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 470,
@@ -7608,7 +8302,9 @@
     "critical": false,
     "image": "/questions/media/q470.jpg",
     "sourceImage": "/questions/images/q470.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 471,
@@ -7624,7 +8320,9 @@
     "critical": false,
     "image": "/questions/media/q471.jpg",
     "sourceImage": "/questions/images/q471.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 472,
@@ -7640,7 +8338,9 @@
     "critical": false,
     "image": "/questions/media/q472.jpg",
     "sourceImage": "/questions/images/q472.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 473,
@@ -7657,7 +8357,9 @@
     "critical": false,
     "image": "/questions/media/q473.jpg",
     "sourceImage": "/questions/images/q473.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 474,
@@ -7672,7 +8374,9 @@
     "critical": false,
     "image": "/questions/media/q474.jpg",
     "sourceImage": "/questions/images/q474.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển chỉ dẫn thường hình vuông hoặc chữ nhật, nền xanh lam, chữ/hình màu trắng; dùng để chỉ hướng đi hoặc thông tin cần thiết giúp đi lại thuận lợi, an toàn.",
+    "tipSource": "paper-note"
   },
   {
     "id": 475,
@@ -7687,7 +8391,9 @@
     "critical": false,
     "image": "/questions/media/q475.jpg",
     "sourceImage": "/questions/images/q475.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Biển báo nguy hiểm có hình tam giác đều, nền vàng, viền đỏ, hình vẽ màu đen. Khi gặp biển này phải giảm tốc độ, chú ý quan sát và sẵn sàng xử lý.",
+    "tipSource": "paper-note"
   },
   {
     "id": 476,
@@ -7704,7 +8410,9 @@
     "critical": false,
     "image": "/questions/media/q476.jpg",
     "sourceImage": "/questions/images/q476.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "tipSource": "paper-note"
   },
   {
     "id": 477,
@@ -7721,7 +8429,9 @@
     "critical": false,
     "image": "/questions/media/q477.jpg",
     "sourceImage": "/questions/images/q477.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "tipSource": "paper-note"
   },
   {
     "id": 478,
@@ -7738,7 +8448,9 @@
     "critical": false,
     "image": "/questions/media/q478.jpg",
     "sourceImage": "/questions/images/q478.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "tipSource": "paper-note"
   },
   {
     "id": 479,
@@ -7755,7 +8467,9 @@
     "critical": false,
     "image": "/questions/media/q479.jpg",
     "sourceImage": "/questions/images/q479.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "tipSource": "paper-note"
   },
   {
     "id": 480,
@@ -7770,7 +8484,9 @@
     "critical": false,
     "image": "/questions/media/q480.jpg",
     "sourceImage": "/questions/images/q480.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "tipSource": "paper-note"
   },
   {
     "id": 481,
@@ -7785,7 +8501,9 @@
     "critical": false,
     "image": "/questions/media/q481.jpg",
     "sourceImage": "/questions/images/q481.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "tipSource": "paper-note"
   },
   {
     "id": 482,
@@ -7802,7 +8520,9 @@
     "critical": false,
     "image": "/questions/media/q482.jpg",
     "sourceImage": "/questions/images/q482.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "tipSource": "paper-note"
   },
   {
     "id": 483,
@@ -7818,7 +8538,9 @@
     "critical": false,
     "image": "/questions/media/q483.jpg",
     "sourceImage": "/questions/images/q483.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "tipSource": "paper-note"
   },
   {
     "id": 484,
@@ -7834,7 +8556,9 @@
     "critical": false,
     "image": "/questions/media/q484.jpg",
     "sourceImage": "/questions/images/q484.png",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "tipSource": "paper-note"
   },
   {
     "id": 485,
@@ -7850,7 +8574,9 @@
     "critical": false,
     "image": "/questions/media/q485.jpg",
     "sourceImage": "/questions/images/q485.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "vạch kẻ đường: vạch liền thường cấm đè/cấm lấn; vạch đứt cho phép cắt qua khi an toàn; vạch vàng phân chia hai chiều, vạch trắng phân chia làn cùng chiều.",
+    "tipSource": "paper-note"
   },
   {
     "id": 486,
@@ -7917,7 +8643,10 @@
     "critical": false,
     "image": "/questions/media/q489.jpg",
     "sourceImage": "/questions/images/q489.jpg",
-    "explanation": ""
+    "explanation": "Thứ tự ưu tiên: Xe ưu tiên - Đường ưu tiên - Đường cùng cấp theo thứ tự bên phải trống - rẽ phải - đi thẳng - rẽ trái. 1. Xe công an: Xe ưu tiên. 2. Xe tải: Đường ưu tiên. 3. Xe khách: Đường không ưu tiên, bên phải trống. 4. Xe con: Đường không ưu tiên, bên phải vướng xe khách nên phải nhường.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_05.png"
   },
   {
     "id": 490,
@@ -8202,7 +8931,10 @@
     "critical": false,
     "image": "/questions/media/q507.jpg",
     "sourceImage": "/questions/images/q507.jpg",
-    "explanation": ""
+    "explanation": "Bạn lưu ý câu hỏi này hỏi về hướng đi của xe GẮN MÁY Hướng 1 và 3 chắc chắn là đi được rồi. Với hướng 2, biển báo cấm mô tô đi vào chỉ có tác dụng với xe MÔ TÔ nên xe gắn máy không có hiệu lực. Do đó vẫn đi vào bình thường.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_06.png"
   },
   {
     "id": 508,
@@ -8505,7 +9237,10 @@
     "critical": false,
     "image": "/questions/media/q526.jpg",
     "sourceImage": "/questions/images/q526.jpg",
-    "explanation": ""
+    "explanation": "Biển số R.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_07.png"
   },
   {
     "id": 527,
@@ -8555,7 +9290,10 @@
     "critical": false,
     "image": "/questions/media/q529.jpg",
     "sourceImage": "/questions/images/q529.jpg",
-    "explanation": ""
+    "explanation": "Giang ngang tay: Trái phải đi;",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_08.png"
   },
   {
     "id": 530,
@@ -8748,7 +9486,10 @@
     "critical": false,
     "image": "/questions/media/q541.jpg",
     "sourceImage": "/questions/images/q541.jpg",
-    "explanation": ""
+    "explanation": "Xe xuống dốc A phải nhường đường cho xe đang lên",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_09.png"
   },
   {
     "id": 542,
@@ -8780,7 +9521,10 @@
     "critical": false,
     "image": "/questions/media/q543.jpg",
     "sourceImage": "/questions/images/q543.jpg",
-    "explanation": ""
+    "explanation": "Xe mô tô C chạy vào làn dành riêng xe ô tô: Vi phạm; Xe con E chạy vào làn dành riêng xe máy: Vi phạm.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_10.png"
   },
   {
     "id": 544,
@@ -8924,7 +9668,10 @@
     "critical": false,
     "image": "/questions/media/q552.jpg",
     "sourceImage": "/questions/images/q552.jpg",
-    "explanation": ""
+    "explanation": "Chú ý vạch kẻ đường ngăn cách với làn bên trái là vạch liền. Bạn phải bật tín hiệu báo hiệu cho đến khi xe tải phía",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_11.png"
   },
   {
     "id": 553,
@@ -9169,7 +9916,10 @@
     "critical": false,
     "image": "/questions/media/q567.jpg",
     "sourceImage": "/questions/images/q567.jpg",
-    "explanation": ""
+    "explanation": "Thứ tự ưu tiên: Xe ưu tiên - Đường ưu tiên - Bên phải trống - Rẽ phải - Đi thằng - Rẽ trái.",
+    "explanationSource": "official-capture",
+    "explanationReview": "verified",
+    "verifiedAgainst": "IMG_140.png"
   },
   {
     "id": 568,
@@ -9250,7 +10000,9 @@
     "critical": false,
     "image": "/questions/media/q572.jpg",
     "sourceImage": "/questions/images/q572.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 573,
@@ -9266,7 +10018,9 @@
     "critical": false,
     "image": "/questions/media/q573.jpg",
     "sourceImage": "/questions/images/q573.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 574,
@@ -9614,7 +10368,9 @@
     "critical": false,
     "image": "/questions/media/q595.jpg",
     "sourceImage": "/questions/images/q595.jpg",
-    "explanation": ""
+    "explanation": "",
+    "memoryTip": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "tipSource": "paper-note"
   },
   {
     "id": 596,

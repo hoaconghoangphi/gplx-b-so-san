@@ -1,0 +1,42 @@
+[
+  {
+    "questionId": 154,
+    "kept": "IMG_43.png",
+    "keptSegmentIndex": 0,
+    "dropped": "IMG_70.png",
+    "droppedSegmentIndex": 0,
+    "reason": "duplicate-capture",
+    "keptExplanationLength": 225,
+    "droppedExplanationLength": 225
+  },
+  {
+    "questionId": 154,
+    "kept": "IMG_43.png",
+    "keptSegmentIndex": 0,
+    "dropped": "IMG_84.png",
+    "droppedSegmentIndex": 0,
+    "reason": "duplicate-capture",
+    "keptExplanationLength": 225,
+    "droppedExplanationLength": 225
+  },
+  {
+    "questionId": 150,
+    "kept": "IMG_19.png",
+    "keptSegmentIndex": 0,
+    "dropped": "IMG_102.png",
+    "droppedSegmentIndex": 0,
+    "reason": "duplicate-capture",
+    "keptExplanationLength": 282,
+    "droppedExplanationLength": 282
+  },
+  {
+    "questionId": 150,
+    "kept": "IMG_19.png",
+    "keptSegmentIndex": 0,
+    "dropped": "IMG_131.png",
+    "droppedSegmentIndex": 0,
+    "reason": "duplicate-capture",
+    "keptExplanationLength": 282,
+    "droppedExplanationLength": 282
+  }
+]

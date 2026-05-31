@@ -1,0 +1,12 @@
+[
+  {
+    "questionId": 488,
+    "image": "IMG_05.png",
+    "segmentIndex": 0,
+    "type": "correctAnswer",
+    "confidence": 1,
+    "jsonCorrectAnswer": 0,
+    "captureCorrectAnswer": 3,
+    "captureCorrectAnswerText": "Xe công an đi làm nhiệm vụ khẩn cấp, xe tải, xe khách, xe con."
+  }
+]

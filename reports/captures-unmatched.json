@@ -1,0 +1,160 @@
+[
+  {
+    "image": "IMG_01.png",
+    "segmentIndex": 0,
+    "reason": "extract-failed",
+    "bestMatch": null,
+    "extracted": {
+      "question": "' nào là đúng quy tắc giao thông đường bộ?",
+      "correctAnswer": null,
+      "explanationLength": 0,
+      "answerCount": 0
+    }
+  },
+  {
+    "image": "IMG_02.png",
+    "segmentIndex": 0,
+    "reason": "extract-failed",
+    "bestMatch": null,
+    "extracted": {
+      "question": "' đi trước trong trường hợp này?",
+      "correctAnswer": null,
+      "explanationLength": 0,
+      "answerCount": 0
+    }
+  },
+  {
+    "image": "IMG_03.png",
+    "segmentIndex": 0,
+    "reason": "extract-failed",
+    "bestMatch": null,
+    "extracted": {
+      "question": "",
+      "correctAnswer": null,
+      "explanationLength": 0,
+      "answerCount": 1
+    }
+  },
+  {
+    "image": "IMG_04.png",
+    "segmentIndex": 0,
+    "reason": "extract-failed",
+    "bestMatch": null,
+    "extracted": {
+      "question": "n, thứ tự các xe đi như thế nào là đúng?",
+      "correctAnswer": null,
+      "explanationLength": 0,
+      "answerCount": 0
+    }
+  },
+  {
+    "image": "IMG_12.png",
+    "segmentIndex": 0,
+    "reason": "low-confidence",
+    "bestMatch": {
+      "questionId": 555,
+      "confidence": 0.6184,
+      "question": "Người lái xe có được phép vượt xe tải để đi thẳng trong trường hợp này không?"
+    },
+    "extracted": {
+      "question": ". «. tan \"ty\" NI mỹ: (G2: [3h 7| đu: 'À HNM 2i. | NHï l",
+      "correctAnswer": {
+        "index": 1,
+        "text": "Cấm vượt."
+      },
+      "explanationLength": 104,
+      "answerCount": 3
+    }
+  },
+  {
+    "image": "IMG_13.png",
+    "segmentIndex": 0,
+    "reason": "extract-failed",
+    "bestMatch": null,
+    "extracted": {
+      "question": "",
+      "correctAnswer": {
+        "index": 1,
+        "text": "Giảm tốc độ, rẽ phải sau xe tải và xe đạp."
+      },
+      "explanationLength": 27,
+      "answerCount": 4
+    }
+  },
+  {
+    "image": "IMG_14.png",
+    "segmentIndex": 0,
+    "reason": "low-confidence",
+    "bestMatch": {
+      "questionId": 551,
+      "confidence": 0.6404,
+      "question": "Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?"
+    },
+    "extracted": {
+      "question": "xo gi W Z=Z E &= Cần, ầ & mg \\ - 1 Na _ J l- \" NI m. - h sa LẠ EE. - `. - xền ni sg ⁄?",
+      "correctAnswer": {
+        "index": 1,
+        "text": "Xe tải, xe con, xe của bạn."
+      },
+      "explanationLength": 163,
+      "answerCount": 3
+    }
+  },
+  {
+    "image": "IMG_60.png",
+    "segmentIndex": 0,
+    "reason": "low-confidence",
+    "bestMatch": {
+      "questionId": 161,
+      "confidence": 0.49,
+      "question": "Khi tham gia giao thông trên đoạn đường không có biển báo \"cự ly tối thiểu giữa hai xe\", trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, đường thẳng, tầm nhìn bảo đảm, xe cơ giới đang chạy với tốc độ 60 km/h, người lái xe phải giữ khoảng cách an toàn với xe đang chạy liền trước tối thiểu là bao nhiêu?"
+    },
+    "extracted": {
+      "question": "Khi tham gia giao thông trên đoạn đường không có biển báo \"cự ly tối thiểu giữa hai xe\", trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, mĩ Ư đường thẳng, tầm nhìn bảo đảm, xe cơ giới đang chạy với tốc độ óO kmí/h, người lái xe phải giữ khoảng cách an toàn với xe đang chạy liền trước tối thiểu là bao nhiêu?",
+      "correctAnswer": {
+        "index": 0,
+        "text": "35m."
+      },
+      "explanationLength": 105,
+      "answerCount": 2
+    }
+  },
+  {
+    "image": "IMG_90.png",
+    "segmentIndex": 0,
+    "reason": "low-confidence",
+    "bestMatch": {
+      "questionId": 160,
+      "confidence": 0.4918,
+      "question": "Khi tham gia giao thông trên đoạn đường không có biển báo \"cự ly tối thiểu giữa hai xe\", trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, đường thẳng, tầm nhìn bảo đảm, xe cơ giới đang chạy với tốc độ từ trên 60 km/h đến 80 km/h, người lái xe phải giữ khoảng cách an toàn với xe đang chạy liền trước tối thiểu là bao nhiêu?"
+    },
+    "extracted": {
+      "question": "Khi tham gia giao thông trên đoạn đường không có biển báo \"cự ly tối thiểu giữa hai xe\", trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, mĩ Ư đường thẳng, tầm nhìn bảo đảm, xe cơ giới đang chạy với tốc độ từ trên óO km/h đến 80 km/h, người lái xe phải giữ khoảng cách an toàn với xe đang chạy liền trước tối thiểu là bao nhiêu?",
+      "correctAnswer": {
+        "index": 0,
+        "text": "55m."
+      },
+      "explanationLength": 105,
+      "answerCount": 3
+    }
+  },
+  {
+    "image": "IMG_93.png",
+    "segmentIndex": 0,
+    "reason": "low-confidence",
+    "bestMatch": {
+      "questionId": 158,
+      "confidence": 0.5,
+      "question": "Khi tham gia giao thông trên đoạn đường không có biển báo \"Cự ly tối thiểu giữa hai xe\", trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, đường thẳng, tầm nhìn bảo đảm, xe cơ giới đang chạy với tốc độ từ trên 80 km/h đến 100 km/h, người lái xe phải giữ khoảng cách an toàn với xe đang chạy liền trước tối thiểu là bao nhiêu?"
+    },
+    "extracted": {
+      "question": "Khi tham gia giao thông trên đoạn đường không có biển báo \"Cự ly tối thiểu giữa hai xe\", trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, mĩ Ư đường thẳng, tầm nhìn bảo đảm, xe cơ giới đang chạy với tốc độ từ trên 80 km/h đến 100 km/h, người lái xe phải giữ khoảng cách an toàn với xe đang chạy liền trước tối thiểu là bao nhiêu?",
+      "correctAnswer": {
+        "index": 2,
+        "text": "70m."
+      },
+      "explanationLength": 105,
+      "answerCount": 0
+    }
+  }
+]

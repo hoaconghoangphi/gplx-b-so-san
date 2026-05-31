@@ -1,0 +1,36 @@
+[
+  {
+    "image": "IMG_125.png",
+    "segmentIndex": 0,
+    "questionId": 146,
+    "confidence": 0.8333,
+    "scoreQ": 1,
+    "scoreAFull": 0.6667,
+    "answerSetScore": 0.5,
+    "correctAnswerScore": 0.6667,
+    "eligibleCandidateCount": 2,
+    "extractedQuestion": "Trên đường bộ (trừ đường cao tốc) trong khu vực đông dân cư, đường hai chiều hoặc đường một chiều có một làn xe cơ giới, xe mô tô hai bánh, ô tô chở người đến 28 chỗ không kể chỗ của người ƯA lái xe tham gia giao thông với tốc độ khai thác tối đa cho phép là bao nhiêu?",
+    "matchedQuestion": "Trên đường bộ (trừ đường cao tốc) trong khu vực đông dân cư, đường hai chiều hoặc đường một chiều có một làn xe cơ giới, xe mô tô hai bánh, ô tô chở người đến 28 chỗ không kể chỗ của người lái xe tham gia giao thông với tốc độ khai thác tối đa cho phép là bao nhiêu?",
+    "extractedCorrectAnswer": {
+      "index": 1,
+      "text": "50 kmí/h."
+    }
+  },
+  {
+    "image": "IMG_129.png",
+    "segmentIndex": 0,
+    "questionId": 144,
+    "confidence": 0.8333,
+    "scoreQ": 1,
+    "scoreAFull": 0.6667,
+    "answerSetScore": 0.6667,
+    "correctAnswerScore": 0.5,
+    "eligibleCandidateCount": 1,
+    "extractedQuestion": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tốc) là bao nhiêu km/h?",
+    "matchedQuestion": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tốc) là bao nhiêu km/h?",
+    "extractedCorrectAnswer": {
+      "index": 1,
+      "text": "40 kmíh."
+    }
+  }
+]

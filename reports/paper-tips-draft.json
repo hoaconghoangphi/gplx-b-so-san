@@ -1,0 +1,2292 @@
+[
+  {
+    "questionId": 4,
+    "chunkId": "page5-khoang-cach-den-4",
+    "topic": "Khoảng cách đến",
+    "page": 5,
+    "tipText": "Phạm vì tác dụng đôi tượng báo hiệu của biên 00-18:20 Biều thị thời gian Vạch phân chìa các làn xe Vạch phân chía các làn xe ngược chiều cầm đè cùng chiều cho đè vạch vạch Vạch phân chia các làn xe ngược f Vạch phân chia các làn chiêu cho đè vạch xe cùng chiêu câm đè vạch i Nơi được cắt qua từ nét.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "phan chia",
+      "chia",
+      "chieu",
+      "phan",
+      "cung"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 14,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 16,
+    "chunkId": "page5-khoang-cach-den-4",
+    "topic": "Khoảng cách đến",
+    "page": 5,
+    "tipText": "Phạm vì tác dụng đôi tượng báo hiệu của biên 00-18:20 Biều thị thời gian Vạch phân chìa các làn xe Vạch phân chía các làn xe ngược chiều cầm đè cùng chiều cho đè vạch vạch Vạch phân chia các làn xe ngược f Vạch phân chia các làn chiêu cho đè vạch xe cùng chiêu câm đè vạch i Nơi được cắt qua từ nét.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "phan chia",
+      "chia",
+      "chieu",
+      "phan",
+      "cung"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 24,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "bi nghiem cam"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 31,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "bi nghiem cam"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 34,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 36,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 40,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 42,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 43,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 44,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 46,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 47,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc phep",
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 51,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "den chieu xa"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 53,
+    "chunkId": "page5-khoang-cach-den-4",
+    "topic": "Khoảng cách đến",
+    "page": 5,
+    "tipText": "Phạm vì tác dụng đôi tượng báo hiệu của biên 00-18:20 Biều thị thời gian Vạch phân chìa các làn xe Vạch phân chía các làn xe ngược chiều cầm đè cùng chiều cho đè vạch vạch Vạch phân chia các làn xe ngược f Vạch phân chia các làn chiêu cho đè vạch xe cùng chiêu câm đè vạch i Nơi được cắt qua từ nét.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "phan chia",
+      "vach",
+      "chia",
+      "phan",
+      "cung"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 62,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 63,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc phep",
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 67,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc phep",
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 73,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 74,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc phep",
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 79,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 81,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 82,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 84,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 86,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 87,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 91,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 92,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 93,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 96,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 98,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 100,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 103,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "den chieu xa"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 109,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 110,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 114,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "nguy hiem",
+      "hiem",
+      "nguy",
+      "bien",
+      "dung"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 117,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 167,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 197,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "bi nghiem cam"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 210,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "nguy hiem",
+      "hiem",
+      "nguy",
+      "bien",
+      "hinh",
+      "biet"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 212,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ve so thap"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 213,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ve so thap"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 214,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 215,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 216,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 217,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 218,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "tang so"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 221,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang so"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 222,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 223,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ve so thap"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 224,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ve so thap"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 225,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "den chieu xa"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 236,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang so"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 237,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "so 0"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 238,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "so 0"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 240,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 241,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 243,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 244,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "den chieu xa"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 245,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "den chieu xa"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 246,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 248,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 252,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ve so thap"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 253,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 254,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 259,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 336,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc phep",
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 344,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc phep",
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 348,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc phep",
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 355,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc phep",
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 356,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc phep",
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 357,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc phep",
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 404,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 552,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 556,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 558,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 572,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 573,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 577,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 578,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 579,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 580,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 582,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 587,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 590,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 595,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc",
+      "den chieu xa"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 596,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "tang toc"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 598,
+    "chunkId": "paper-page6-answer-positive",
+    "topic": "Nhận dạng đáp án đúng",
+    "page": 6,
+    "tipText": "Đáp án đúng thường có cụm \"bị nghiêm cấm\", \"không được phép/không được\", \"về số thấp/về số 1\", hoặc \"đèn chiếu gần\".",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "khong duoc"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 600,
+    "chunkId": "paper-page6-answer-avoid",
+    "topic": "Nhận dạng đáp án sai",
+    "page": 6,
+    "tipText": "Các đáp án có \"tăng tốc\", \"tăng số\", \"bật đèn chiếu xa\", \"về số 0\", \"tùy ý/ở nơi bất kỳ\", \"đi bên trái/làn đường ít phương tiện\" thường là đáp án sai.",
+    "matchScore": 0.84,
+    "keywordsMatched": [
+      "ben trai"
+    ],
+    "keywordsTotal": 6
+  },
+  {
+    "questionId": 251,
+    "chunkId": "page1-toc-do-luu-hanh-v-km-h-khoang-cach-an-toan-m-5",
+    "topic": "Tốc độ lưu hành (V km/h) Khoảng cách an toàn (m)",
+    "page": 1,
+    "tipText": "mau 2 mi \"BI ‹Vao Tớ su, II 80 <V < 100 Xe mô tô (Xe máy) Xe kéo rTØ-mmOÓC rơ-moóc",
+    "matchScore": 0.8,
+    "keywordsMatched": [
+      "hanh",
+      "khoang",
+      "mooc",
+      "toan"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 5,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.75,
+    "keywordsMatched": [
+      "nguy hiem",
+      "hiem",
+      "nguy",
+      "dung"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 29,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.75,
+    "keywordsMatched": [
+      "chuyen",
+      "dung",
+      "giao",
+      "loai",
+      "phep",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 33,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.75,
+    "keywordsMatched": [
+      "nguy hiem",
+      "hiem",
+      "nguy",
+      "bien"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 60,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.75,
+    "keywordsMatched": [
+      "nguy hiem",
+      "hiem",
+      "nguy",
+      "dung"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 83,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.75,
+    "keywordsMatched": [
+      "nguy hiem",
+      "hiem",
+      "nguy",
+      "dung"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 107,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.75,
+    "keywordsMatched": [
+      "nguy hiem",
+      "hiem",
+      "nguy",
+      "dung"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 163,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.75,
+    "keywordsMatched": [
+      "nguy hiem",
+      "hiem",
+      "nguy",
+      "bien"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 194,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.75,
+    "keywordsMatched": [
+      "nguy hiem",
+      "hiem",
+      "nguy",
+      "dung"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 200,
+    "chunkId": "page6-nhan-dang-dap-an-1",
+    "topic": "NHẬN DẠNG ĐÁP ÁN",
+    "page": 6,
+    "tipText": "„AI chứa các cụm từ; páP tốC, tăng sỐ. | (0). in ¿Vé sô bít kỳ, ở nơi thuận tiện, cần thiết. 1B à đi ở làn đường ít phương tiện. tiên (câu 97 cưa bi ) và GPLX THẾ { thấp SsO: Th Ễ; or nói về Đèn thì chọn: đèn chiều gần, (chuyển từ đèn chiếu xa sang đèn đi a1 đc: ' Quy hồi có 2 hoặc 5 đáp ch Tố tất.",
+    "matchScore": 0.75,
+    "keywordsMatched": [
+      "tien",
+      "chieu",
+      "chon",
+      "chuyen",
+      "nhan",
+      "phuong"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 255,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.75,
+    "keywordsMatched": [
+      "nguy hiem",
+      "hiem",
+      "nguy",
+      "dung"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 94,
+    "chunkId": "page5-trang-5-1",
+    "topic": "Trang 5",
+    "page": 5,
+    "tipText": "6856T Trạm cảnh sát ¡a đường cho người đi bộ:. - giao thông Hâm ch rờng cho người đi bộ",
+    "matchScore": 0.714,
+    "keywordsMatched": [
+      "canh",
+      "giao",
+      "rong",
+      "thong",
+      "trang"
+    ],
+    "keywordsTotal": 7
+  },
+  {
+    "questionId": 8,
+    "chunkId": "page7-toc-do-xe-toc-do-xe-1",
+    "topic": "Tốc độ xe Tốc độ Xe",
+    "page": 7,
+    "tipText": "Xe chở người bốn bánh có gắn động cơ Hi Xe máy chuyên dùng, xe gắn máy NHƯ: II Xe chở hàng bốn bánh có gắn động cơ Trong khu dân cư Đường đôi Km/h Ngoài khu dân cư Đường hai chiều Km/h Đường đôi | Đường hai chiều Km/h Km/h Đến 28 chỗ, không lớn hơn 3,5 tấn go 2O HD;",
+    "matchScore": 0.625,
+    "keywordsMatched": [
+      "banh",
+      "dong",
+      "chuyen",
+      "dung",
+      "hang"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 15,
+    "chunkId": "page3-bien-bao-ca-bao-cam-de-bieu-thi-cac-dieu-cam-nguoi-tham-gia-giao-thong-2",
+    "topic": "Biên báo ca báo cầm để biểu thị các điều câm. Người tham gia giao thông phải k",
+    "page": 3,
+    "tipText": "In: điều L à biển đã báo. hành những điều cầm m lê Ẩ ˆ ˆ Câm xe mô tô 3 bánh (không cám xe gắn máy) Cẩm xe kéo rơ-moóc s A+A 4: x âm xe ôtô khách Cắm xe ôtô và Câm xe 010 - và xe ôtô tải xe môtô khách Cấm xe ba bánh s7 Ễ loại không có Cảm CáC Xe chở động cơ hàng nguy hiểm Cắm rỆ trái Cấm quay đầu x.",
+    "matchScore": 0.625,
+    "keywordsMatched": [
+      "dieu",
+      "banh",
+      "bien",
+      "giao",
+      "hang"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 23,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.625,
+    "keywordsMatched": [
+      "dung",
+      "giao",
+      "loai",
+      "phep",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 25,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.625,
+    "keywordsMatched": [
+      "dung",
+      "giao",
+      "loai",
+      "phep",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 37,
+    "chunkId": "page2-duong-uu-tien-xe-dap-cat-ngang-2",
+    "topic": "đường ưu tiên xe đạp cắt ngang",
+    "page": 2,
+    "tipText": "Đường người đi Giao nhau với Kết thúc đường bộ cắt ngang đường hai chiều đôi Cầu võng Đoạn đường hay xảy ra tai nạn Đường cao tốc phía trước Ùn tắc giao thông Đường trơn Gia súc Đường cáp điện ở phía trên Kè, vực sâu Kẻ, An ĐC;",
+    "matchScore": 0.625,
+    "keywordsMatched": [
+      "giao",
+      "phia",
+      "chieu",
+      "nhau",
+      "thong"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 111,
+    "chunkId": "page7-toc-do-xe-toc-do-xe-1",
+    "topic": "Tốc độ xe Tốc độ Xe",
+    "page": 7,
+    "tipText": "Xe chở người bốn bánh có gắn động cơ Hi Xe máy chuyên dùng, xe gắn máy NHƯ: II Xe chở hàng bốn bánh có gắn động cơ Trong khu dân cư Đường đôi Km/h Ngoài khu dân cư Đường hai chiều Km/h Đường đôi | Đường hai chiều Km/h Km/h Đến 28 chỗ, không lớn hơn 3,5 tấn go 2O HD;",
+    "matchScore": 0.625,
+    "keywordsMatched": [
+      "banh",
+      "dong",
+      "chuyen",
+      "dung",
+      "hang"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 137,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.625,
+    "keywordsMatched": [
+      "dung",
+      "giao",
+      "loai",
+      "phep",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 138,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.625,
+    "keywordsMatched": [
+      "dung",
+      "giao",
+      "loai",
+      "phep",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 166,
+    "chunkId": "page3-toc-do-toi-da-cho-in-toa-3",
+    "topic": "Tốc độ tối đa cho. In Toà",
+    "page": 3,
+    "tipText": "phép về ban đêm Cấm sử dụng còi Biển tốc độ Biển hết hạn chê LG ào ~ tối đa cho phép Hết tất cả các đám Hiên Hết hạn chê tốc tốc độ tồi đa trên từng làn - 2 ng làn lệnh cắm uc nhánh độ tôi đa cho phép ường",
+    "matchScore": 0.625,
+    "keywordsMatched": [
+      "phep",
+      "bien",
+      "hien",
+      "nhanh",
+      "tren"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 178,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.625,
+    "keywordsMatched": [
+      "chuyen",
+      "dung",
+      "giao",
+      "phep",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 192,
+    "chunkId": "page6-nhan-dang-dap-an-1",
+    "topic": "NHẬN DẠNG ĐÁP ÁN",
+    "page": 6,
+    "tipText": "„AI chứa các cụm từ; páP tốC, tăng sỐ. | (0). in ¿Vé sô bít kỳ, ở nơi thuận tiện, cần thiết. 1B à đi ở làn đường ít phương tiện. tiên (câu 97 cưa bi ) và GPLX THẾ { thấp SsO: Th Ễ; or nói về Đèn thì chọn: đèn chiều gần, (chuyển từ đèn chiếu xa sang đèn đi a1 đc: ' Quy hồi có 2 hoặc 5 đáp ch Tố tất.",
+    "matchScore": 0.625,
+    "keywordsMatched": [
+      "tien",
+      "chieu",
+      "chuyen",
+      "nhan",
+      "phuong"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 256,
+    "chunkId": "page6-nhan-dang-dap-an-1",
+    "topic": "NHẬN DẠNG ĐÁP ÁN",
+    "page": 6,
+    "tipText": "„AI chứa các cụm từ; páP tốC, tăng sỐ. | (0). in ¿Vé sô bít kỳ, ở nơi thuận tiện, cần thiết. 1B à đi ở làn đường ít phương tiện. tiên (câu 97 cưa bi ) và GPLX THẾ { thấp SsO: Th Ễ; or nói về Đèn thì chọn: đèn chiều gần, (chuyển từ đèn chiếu xa sang đèn đi a1 đc: ' Quy hồi có 2 hoặc 5 đáp ch Tố tất.",
+    "matchScore": 0.625,
+    "keywordsMatched": [
+      "tien",
+      "chon",
+      "chuyen",
+      "nhan",
+      "phuong"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 99,
+    "chunkId": "page1-toc-do-luu-hanh-v-km-h-khoang-cach-an-toan-m-5",
+    "topic": "Tốc độ lưu hành (V km/h) Khoảng cách an toàn (m)",
+    "page": 1,
+    "tipText": "mau 2 mi \"BI ‹Vao Tớ su, II 80 <V < 100 Xe mô tô (Xe máy) Xe kéo rTØ-mmOÓC rơ-moóc",
+    "matchScore": 0.6,
+    "keywordsMatched": [
+      "hanh",
+      "khoang",
+      "toan"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 105,
+    "chunkId": "page1-toc-do-luu-hanh-v-km-h-khoang-cach-an-toan-m-5",
+    "topic": "Tốc độ lưu hành (V km/h) Khoảng cách an toàn (m)",
+    "page": 1,
+    "tipText": "mau 2 mi \"BI ‹Vao Tớ su, II 80 <V < 100 Xe mô tô (Xe máy) Xe kéo rTØ-mmOÓC rơ-moóc",
+    "matchScore": 0.6,
+    "keywordsMatched": [
+      "hanh",
+      "mooc",
+      "toan"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 106,
+    "chunkId": "page1-toc-do-luu-hanh-v-km-h-khoang-cach-an-toan-m-5",
+    "topic": "Tốc độ lưu hành (V km/h) Khoảng cách an toàn (m)",
+    "page": 1,
+    "tipText": "mau 2 mi \"BI ‹Vao Tớ su, II 80 <V < 100 Xe mô tô (Xe máy) Xe kéo rTØ-mmOÓC rơ-moóc",
+    "matchScore": 0.6,
+    "keywordsMatched": [
+      "hanh",
+      "mooc",
+      "toan"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 168,
+    "chunkId": "page1-toc-do-luu-hanh-v-km-h-khoang-cach-an-toan-m-5",
+    "topic": "Tốc độ lưu hành (V km/h) Khoảng cách an toàn (m)",
+    "page": 1,
+    "tipText": "mau 2 mi \"BI ‹Vao Tớ su, II 80 <V < 100 Xe mô tô (Xe máy) Xe kéo rTØ-mmOÓC rơ-moóc",
+    "matchScore": 0.6,
+    "keywordsMatched": [
+      "hanh",
+      "khoang",
+      "toan"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 202,
+    "chunkId": "page1-toc-do-luu-hanh-v-km-h-khoang-cach-an-toan-m-5",
+    "topic": "Tốc độ lưu hành (V km/h) Khoảng cách an toàn (m)",
+    "page": 1,
+    "tipText": "mau 2 mi \"BI ‹Vao Tớ su, II 80 <V < 100 Xe mô tô (Xe máy) Xe kéo rTØ-mmOÓC rơ-moóc",
+    "matchScore": 0.6,
+    "keywordsMatched": [
+      "hanh",
+      "khoang",
+      "toan"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 209,
+    "chunkId": "page1-toc-do-luu-hanh-v-km-h-khoang-cach-an-toan-m-5",
+    "topic": "Tốc độ lưu hành (V km/h) Khoảng cách an toàn (m)",
+    "page": 1,
+    "tipText": "mau 2 mi \"BI ‹Vao Tớ su, II 80 <V < 100 Xe mô tô (Xe máy) Xe kéo rTØ-mmOÓC rơ-moóc",
+    "matchScore": 0.6,
+    "keywordsMatched": [
+      "hanh",
+      "khoang",
+      "toan"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 219,
+    "chunkId": "page1-toc-do-luu-hanh-v-km-h-khoang-cach-an-toan-m-5",
+    "topic": "Tốc độ lưu hành (V km/h) Khoảng cách an toàn (m)",
+    "page": 1,
+    "tipText": "mau 2 mi \"BI ‹Vao Tớ su, II 80 <V < 100 Xe mô tô (Xe máy) Xe kéo rTØ-mmOÓC rơ-moóc",
+    "matchScore": 0.6,
+    "keywordsMatched": [
+      "hanh",
+      "khoang",
+      "toan"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 229,
+    "chunkId": "page3-trang-3-1",
+    "topic": "Trang 3",
+    "page": 3,
+    "tipText": ".À á M ¿ - cên báo cầm: có dạng hình tròn, viên đỏ, nên trăng, hình vẽ màu đ en",
+    "matchScore": 0.6,
+    "keywordsMatched": [
+      "hinh",
+      "trang",
+      "tron"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 297,
+    "chunkId": "page3-trang-3-1",
+    "topic": "Trang 3",
+    "page": 3,
+    "tipText": ".À á M ¿ - cên báo cầm: có dạng hình tròn, viên đỏ, nên trăng, hình vẽ màu đ en",
+    "matchScore": 0.6,
+    "keywordsMatched": [
+      "hinh",
+      "trang",
+      "tron"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 298,
+    "chunkId": "page3-trang-3-1",
+    "topic": "Trang 3",
+    "page": 3,
+    "tipText": ".À á M ¿ - cên báo cầm: có dạng hình tròn, viên đỏ, nên trăng, hình vẽ màu đ en",
+    "matchScore": 0.6,
+    "keywordsMatched": [
+      "hinh",
+      "trang",
+      "tron"
+    ],
+    "keywordsTotal": 5
+  },
+  {
+    "questionId": 179,
+    "chunkId": "page5-trang-5-1",
+    "topic": "Trang 5",
+    "page": 5,
+    "tipText": "6856T Trạm cảnh sát ¡a đường cho người đi bộ:. - giao thông Hâm ch rờng cho người đi bộ",
+    "matchScore": 0.571,
+    "keywordsMatched": [
+      "canh",
+      "giao",
+      "rong",
+      "thong"
+    ],
+    "keywordsTotal": 7
+  },
+  {
+    "questionId": 184,
+    "chunkId": "page5-trang-5-1",
+    "topic": "Trang 5",
+    "page": 5,
+    "tipText": "6856T Trạm cảnh sát ¡a đường cho người đi bộ:. - giao thông Hâm ch rờng cho người đi bộ",
+    "matchScore": 0.571,
+    "keywordsMatched": [
+      "canh",
+      "giao",
+      "rong",
+      "thong"
+    ],
+    "keywordsTotal": 7
+  },
+  {
+    "questionId": 205,
+    "chunkId": "page5-trang-5-1",
+    "topic": "Trang 5",
+    "page": 5,
+    "tipText": "6856T Trạm cảnh sát ¡a đường cho người đi bộ:. - giao thông Hâm ch rờng cho người đi bộ",
+    "matchScore": 0.571,
+    "keywordsMatched": [
+      "giao",
+      "rong",
+      "thong",
+      "trang"
+    ],
+    "keywordsTotal": 7
+  },
+  {
+    "questionId": 169,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.563,
+    "keywordsMatched": [
+      "nguy hiem",
+      "hiem",
+      "nguy"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 176,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.563,
+    "keywordsMatched": [
+      "nguy hiem",
+      "hiem",
+      "nguy"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 6,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "chuyen",
+      "dung",
+      "giao",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 9,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "chuyen",
+      "dung",
+      "giao",
+      "loai"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 10,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "chuyen",
+      "dung",
+      "giao",
+      "loai"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 12,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "chuyen",
+      "dung",
+      "giao",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 20,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "chuyen",
+      "dung",
+      "giao",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 30,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "chuyen",
+      "dung",
+      "giao",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 54,
+    "chunkId": "page2-duong-uu-tien-xe-dap-cat-ngang-2",
+    "topic": "đường ưu tiên xe đạp cắt ngang",
+    "page": 2,
+    "tipText": "Đường người đi Giao nhau với Kết thúc đường bộ cắt ngang đường hai chiều đôi Cầu võng Đoạn đường hay xảy ra tai nạn Đường cao tốc phía trước Ùn tắc giao thông Đường trơn Gia súc Đường cáp điện ở phía trên Kè, vực sâu Kẻ, An ĐC;",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "giao",
+      "chieu",
+      "doan",
+      "nhau"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 64,
+    "chunkId": "page3-toc-do-toi-da-cho-in-toa-3",
+    "topic": "Tốc độ tối đa cho. In Toà",
+    "page": 3,
+    "tipText": "phép về ban đêm Cấm sử dụng còi Biển tốc độ Biển hết hạn chê LG ào ~ tối đa cho phép Hết tất cả các đám Hiên Hết hạn chê tốc tốc độ tồi đa trên từng làn - 2 ng làn lệnh cắm uc nhánh độ tôi đa cho phép ường",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "phep",
+      "dung",
+      "hien",
+      "tren"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 65,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-cho-nguoi-bon-banh-co-gan--3",
+    "topic": "Tóc độ khai thác tôi đa cho phép đồi với xe chở người bồn bánh có gắn động",
+    "page": 1,
+    "tipText": "cơ, xe chở hàng bôn bánh có găn động cơ tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "banh",
+      "giao",
+      "hang",
+      "phep"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 72,
+    "chunkId": "page3-bien-bao-ca-bao-cam-de-bieu-thi-cac-dieu-cam-nguoi-tham-gia-giao-thong-2",
+    "topic": "Biên báo ca báo cầm để biểu thị các điều câm. Người tham gia giao thông phải k",
+    "page": 3,
+    "tipText": "In: điều L à biển đã báo. hành những điều cầm m lê Ẩ ˆ ˆ Câm xe mô tô 3 bánh (không cám xe gắn máy) Cẩm xe kéo rơ-moóc s A+A 4: x âm xe ôtô khách Cắm xe ôtô và Câm xe 010 - và xe ôtô tải xe môtô khách Cấm xe ba bánh s7 Ễ loại không có Cảm CáC Xe chở động cơ hàng nguy hiểm Cắm rỆ trái Cấm quay đầu x.",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "dieu",
+      "banh",
+      "giao",
+      "hang"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 76,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "chuyen",
+      "dung",
+      "giao",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 78,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "chuyen",
+      "giao",
+      "phep",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 85,
+    "chunkId": "page6-nhan-dang-dap-an-1",
+    "topic": "NHẬN DẠNG ĐÁP ÁN",
+    "page": 6,
+    "tipText": "„AI chứa các cụm từ; páP tốC, tăng sỐ. | (0). in ¿Vé sô bít kỳ, ở nơi thuận tiện, cần thiết. 1B à đi ở làn đường ít phương tiện. tiên (câu 97 cưa bi ) và GPLX THẾ { thấp SsO: Th Ễ; or nói về Đèn thì chọn: đèn chiều gần, (chuyển từ đèn chiếu xa sang đèn đi a1 đc: ' Quy hồi có 2 hoặc 5 đáp ch Tố tất.",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "tien",
+      "chon",
+      "nhan",
+      "phuong"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 88,
+    "chunkId": "page2-duong-uu-tien-xe-dap-cat-ngang-2",
+    "topic": "đường ưu tiên xe đạp cắt ngang",
+    "page": 2,
+    "tipText": "Đường người đi Giao nhau với Kết thúc đường bộ cắt ngang đường hai chiều đôi Cầu võng Đoạn đường hay xảy ra tai nạn Đường cao tốc phía trước Ùn tắc giao thông Đường trơn Gia súc Đường cáp điện ở phía trên Kè, vực sâu Kẻ, An ĐC;",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "giao",
+      "phia",
+      "chieu",
+      "thong"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 95,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "dung",
+      "giao",
+      "phep",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 101,
+    "chunkId": "page3-toc-do-toi-da-cho-in-toa-3",
+    "topic": "Tốc độ tối đa cho. In Toà",
+    "page": 3,
+    "tipText": "phép về ban đêm Cấm sử dụng còi Biển tốc độ Biển hết hạn chê LG ào ~ tối đa cho phép Hết tất cả các đám Hiên Hết hạn chê tốc tốc độ tồi đa trên từng làn - 2 ng làn lệnh cắm uc nhánh độ tôi đa cho phép ường",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "bien",
+      "dung",
+      "hien",
+      "tren"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 102,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "chuyen",
+      "dung",
+      "giao",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 113,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "chuyen",
+      "dung",
+      "giao",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 141,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "dung",
+      "giao",
+      "phep",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 170,
+    "chunkId": "page7-toc-do-xe-toc-do-xe-1",
+    "topic": "Tốc độ xe Tốc độ Xe",
+    "page": 7,
+    "tipText": "Xe chở người bốn bánh có gắn động cơ Hi Xe máy chuyên dùng, xe gắn máy NHƯ: II Xe chở hàng bốn bánh có gắn động cơ Trong khu dân cư Đường đôi Km/h Ngoài khu dân cư Đường hai chiều Km/h Đường đôi | Đường hai chiều Km/h Km/h Đến 28 chỗ, không lớn hơn 3,5 tấn go 2O HD;",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "dong",
+      "chuyen",
+      "dung",
+      "ngoai"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 175,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "chuyen",
+      "giao",
+      "loai",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 177,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "dung",
+      "giao",
+      "phep",
+      "tham"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 181,
+    "chunkId": "page1-toc-do-toi-da-cho-phep-1",
+    "topic": "TÓC ĐỘ TÓI ĐA CHO PHÉP",
+    "page": 1,
+    "tipText": "ừ đường cao tóc) ˆ ân cư (tr ực đông dã Tốc độ khai thác tôi đz ` AM ` (km/h Đường đôi;",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "dong",
+      "phep"
+    ],
+    "keywordsTotal": 4
+  },
+  {
+    "questionId": 183,
+    "chunkId": "page3-bien-bao-ca-bao-cam-de-bieu-thi-cac-dieu-cam-nguoi-tham-gia-giao-thong-2",
+    "topic": "Biên báo ca báo cầm để biểu thị các điều câm. Người tham gia giao thông phải k",
+    "page": 3,
+    "tipText": "In: điều L à biển đã báo. hành những điều cầm m lê Ẩ ˆ ˆ Câm xe mô tô 3 bánh (không cám xe gắn máy) Cẩm xe kéo rơ-moóc s A+A 4: x âm xe ôtô khách Cắm xe ôtô và Câm xe 010 - và xe ôtô tải xe môtô khách Cấm xe ba bánh s7 Ễ loại không có Cảm CáC Xe chở động cơ hàng nguy hiểm Cắm rỆ trái Cấm quay đầu x.",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "khach",
+      "dong",
+      "giao",
+      "hang"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 185,
+    "chunkId": "page1-toc-do-toi-da-cho-phep-1",
+    "topic": "TÓC ĐỘ TÓI ĐA CHO PHÉP",
+    "page": 1,
+    "tipText": "ừ đường cao tóc) ˆ ân cư (tr ực đông dã Tốc độ khai thác tôi đz ` AM ` (km/h Đường đôi;",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "dong",
+      "khai"
+    ],
+    "keywordsTotal": 4
+  },
+  {
+    "questionId": 189,
+    "chunkId": "page2-bien-bao-nguy-hiem-hinh-tam-giac-deu-nen-vang-vien-do-hinh-ve-mau-den-1",
+    "topic": "¡. Biên báo nguy hiểm: hình tam giác đều, nền vàng, viền đó, hình vẽ màu đen",
+    "page": 2,
+    "tipText": "Tác dụng: Biên báo nguy hiểm và cảnh báo được dùng đề báo cho người tham gia giao thông biết trước tính chật của sự nguy hiểm hoặc các điều cần chú ý phòng ngừa trên tuyến đường.",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "hiem",
+      "dung",
+      "hinh",
+      "biet"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 190,
+    "chunkId": "page3-toc-do-toi-da-cho-in-toa-3",
+    "topic": "Tốc độ tối đa cho. In Toà",
+    "page": 3,
+    "tipText": "phép về ban đêm Cấm sử dụng còi Biển tốc độ Biển hết hạn chê LG ào ~ tối đa cho phép Hết tất cả các đám Hiên Hết hạn chê tốc tốc độ tồi đa trên từng làn - 2 ng làn lệnh cắm uc nhánh độ tôi đa cho phép ường",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "bien",
+      "hien",
+      "lenh",
+      "tren"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 191,
+    "chunkId": "page3-toc-do-toi-da-cho-in-toa-3",
+    "topic": "Tốc độ tối đa cho. In Toà",
+    "page": 3,
+    "tipText": "phép về ban đêm Cấm sử dụng còi Biển tốc độ Biển hết hạn chê LG ào ~ tối đa cho phép Hết tất cả các đám Hiên Hết hạn chê tốc tốc độ tồi đa trên từng làn - 2 ng làn lệnh cắm uc nhánh độ tôi đa cho phép ường",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "bien",
+      "dung",
+      "hien",
+      "tren"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 201,
+    "chunkId": "page2-duong-uu-tien-xe-dap-cat-ngang-2",
+    "topic": "đường ưu tiên xe đạp cắt ngang",
+    "page": 2,
+    "tipText": "Đường người đi Giao nhau với Kết thúc đường bộ cắt ngang đường hai chiều đôi Cầu võng Đoạn đường hay xảy ra tai nạn Đường cao tốc phía trước Ùn tắc giao thông Đường trơn Gia súc Đường cáp điện ở phía trên Kè, vực sâu Kẻ, An ĐC;",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "giao",
+      "phia",
+      "doan",
+      "thong"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 203,
+    "chunkId": "page3-toc-do-toi-da-cho-in-toa-3",
+    "topic": "Tốc độ tối đa cho. In Toà",
+    "page": 3,
+    "tipText": "phép về ban đêm Cấm sử dụng còi Biển tốc độ Biển hết hạn chê LG ào ~ tối đa cho phép Hết tất cả các đám Hiên Hết hạn chê tốc tốc độ tồi đa trên từng làn - 2 ng làn lệnh cắm uc nhánh độ tôi đa cho phép ường",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "bien",
+      "dung",
+      "hien",
+      "tren"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 227,
+    "chunkId": "page1-toc-do-toi-da-cho-phep-1",
+    "topic": "TÓC ĐỘ TÓI ĐA CHO PHÉP",
+    "page": 1,
+    "tipText": "ừ đường cao tóc) ˆ ân cư (tr ực đông dã Tốc độ khai thác tôi đz ` AM ` (km/h Đường đôi;",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "dong",
+      "phep"
+    ],
+    "keywordsTotal": 4
+  },
+  {
+    "questionId": 228,
+    "chunkId": "page1-toc-do-toi-da-cho-phep-1",
+    "topic": "TÓC ĐỘ TÓI ĐA CHO PHÉP",
+    "page": 1,
+    "tipText": "ừ đường cao tóc) ˆ ân cư (tr ực đông dã Tốc độ khai thác tôi đz ` AM ` (km/h Đường đôi;",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "dong",
+      "phep"
+    ],
+    "keywordsTotal": 4
+  },
+  {
+    "questionId": 247,
+    "chunkId": "page1-toc-do-toi-da-cho-phep-1",
+    "topic": "TÓC ĐỘ TÓI ĐA CHO PHÉP",
+    "page": 1,
+    "tipText": "ừ đường cao tóc) ˆ ân cư (tr ực đông dã Tốc độ khai thác tôi đz ` AM ` (km/h Đường đôi;",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "dong",
+      "phep"
+    ],
+    "keywordsTotal": 4
+  },
+  {
+    "questionId": 257,
+    "chunkId": "page1-toc-do-toi-da-cho-phep-1",
+    "topic": "TÓC ĐỘ TÓI ĐA CHO PHÉP",
+    "page": 1,
+    "tipText": "ừ đường cao tóc) ˆ ân cư (tr ực đông dã Tốc độ khai thác tôi đz ` AM ` (km/h Đường đôi;",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "dong",
+      "phep"
+    ],
+    "keywordsTotal": 4
+  },
+  {
+    "questionId": 261,
+    "chunkId": "page5-bien-bao-cau-vuot-lien-thong-3",
+    "topic": "Biên báo cầu vượt liên thông",
+    "page": 5,
+    "tipText": "\\ R Chỉ dẫn khoảng cách đến trạm dừng Chỉ dân bắt đầu Chướng ngại vật Kết thúc đường cao toc NI SG tốc ng ước Biển phụ: Có dạng hình vuông hoặc hình chữ nhật, có nên là mâu trăng, hình vẽ và chữ viề hính hoặc có nên là màu xanh lam, chữ viêt màu trăng.",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "hinh",
+      "dung",
+      "khoang",
+      "lien"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 296,
+    "chunkId": "page7-toc-do-xe-toc-do-xe-1",
+    "topic": "Tốc độ xe Tốc độ Xe",
+    "page": 7,
+    "tipText": "Xe chở người bốn bánh có gắn động cơ Hi Xe máy chuyên dùng, xe gắn máy NHƯ: II Xe chở hàng bốn bánh có gắn động cơ Trong khu dân cư Đường đôi Km/h Ngoài khu dân cư Đường hai chiều Km/h Đường đôi | Đường hai chiều Km/h Km/h Đến 28 chỗ, không lớn hơn 3,5 tấn go 2O HD;",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "banh",
+      "dong",
+      "chuyen",
+      "dung"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 424,
+    "chunkId": "page3-toc-do-toi-da-cho-in-toa-3",
+    "topic": "Tốc độ tối đa cho. In Toà",
+    "page": 3,
+    "tipText": "phép về ban đêm Cấm sử dụng còi Biển tốc độ Biển hết hạn chê LG ào ~ tối đa cho phép Hết tất cả các đám Hiên Hết hạn chê tốc tốc độ tồi đa trên từng làn - 2 ng làn lệnh cắm uc nhánh độ tôi đa cho phép ường",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "bien",
+      "dung",
+      "nhanh",
+      "tren"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 427,
+    "chunkId": "page3-toc-do-toi-da-cho-in-toa-3",
+    "topic": "Tốc độ tối đa cho. In Toà",
+    "page": 3,
+    "tipText": "phép về ban đêm Cấm sử dụng còi Biển tốc độ Biển hết hạn chê LG ào ~ tối đa cho phép Hết tất cả các đám Hiên Hết hạn chê tốc tốc độ tồi đa trên từng làn - 2 ng làn lệnh cắm uc nhánh độ tôi đa cho phép ường",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "phep",
+      "bien",
+      "tren",
+      "tung"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 447,
+    "chunkId": "page5-weigh-station-2",
+    "topic": "WEIGH STATION",
+    "page": 5,
+    "tipText": "Đường phía trước có lản đường dành cho ô tô khách Cầu vượt qua đt n thoát xe Biên tên đường Trạm kiêm tra tải ì Ÿ -ứu nạn hay là àn đường cứu nạn hay {: L ân cá đôi ngoại khân câp",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "bien",
+      "danh",
+      "khach",
+      "phia"
+    ],
+    "keywordsTotal": 8
+  },
+  {
+    "questionId": 461,
+    "chunkId": "page1-toc-do-khai-thac-toi-da-cho-phep-doi-voi-xe-may-chuyen-dung-xe-gan-may-2",
+    "topic": "Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và",
+    "page": 1,
+    "tipText": "các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tôc)",
+    "matchScore": 0.5,
+    "keywordsMatched": [
+      "chuyen",
+      "giao",
+      "loai",
+      "phep"
+    ],
+    "keywordsTotal": 8
+  }
+]
